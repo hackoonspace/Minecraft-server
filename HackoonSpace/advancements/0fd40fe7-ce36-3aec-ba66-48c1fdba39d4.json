@@ -1133,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-10-07 21:57:37 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-10-04 18:22:57 -0300"
@@ -1613,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-10-07 21:57:37 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-09-20 16:17:57 -0300"
@@ -1649,5 +1661,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2580
 }

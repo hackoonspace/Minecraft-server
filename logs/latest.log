@@ -1,38 +1,66 @@
-[20:34:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[20:34:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:34:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:34:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:34:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:34:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:34:08] [main/INFO]: Reloading ResourceManager: Default
-[20:34:09] [Worker-Main-9/INFO]: Loaded 7 recipes
-[20:34:09] [Worker-Main-9/INFO]: Loaded 927 advancements
-[20:34:10] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[20:34:10] [Server thread/INFO]: Loading properties
-[20:34:10] [Server thread/INFO]: Default game type: CREATIVE
-[20:34:10] [Server thread/INFO]: Generating keypair
-[20:34:11] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[20:34:11] [Server thread/INFO]: Using default channel type
-[20:34:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:34:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:34:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:34:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:34:11] [Server thread/INFO]: Preparing level "HackoonSpace"
-[20:34:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:34:13] [Server thread/INFO]: Preparing spawn area: 0%
-[20:34:13] [Server thread/INFO]: Preparing spawn area: 0%
-[20:34:13] [Server thread/INFO]: Preparing spawn area: 0%
-[20:34:14] [Server thread/INFO]: Time elapsed: 1670 ms
-[20:34:14] [Server thread/INFO]: Done (2.452s)! For help, type "help"
-[20:34:15] [Server thread/INFO]: Stopping server
-[20:34:15] [Server thread/INFO]: Saving players
-[20:34:15] [Server thread/INFO]: Saving worlds
-[20:34:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
-[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[20:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
-[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:34:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
-[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:34:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:57] [Server thread/WARN]: MasterProject moved too quickly! -10.352573002019597,0.0,2.695825189568552
+[00:03:17] [Server thread/INFO]: <MasterProject> fer, vc ta aí?
+[00:08:25] [Server thread/INFO]: <kyleflick124> s
+[00:08:37] [Server thread/INFO]: <MasterProject> vc pode me ajudar rapidao a testar a votacao?
+[00:08:57] [Server thread/INFO]: <kyleflick124> ajudo s
+[00:09:41] [Server thread/INFO]: <MasterProject> posso dar tp em vc?
+[00:09:45] [Server thread/INFO]: <kyleflick124> owo
+[00:10:03] [Server thread/INFO]: Guitarrinha[/127.0.0.1:11980] logged in with entity id 5509 at (506.1636438385912, 56.0, 504.63504530654785)
+[00:10:03] [Server thread/INFO]: Guitarrinha joined the game
+[00:10:35] [Server thread/INFO]: [@] Iniciando o jogo...
+[00:10:36] [Server thread/INFO]: [@] 3...
+[00:10:37] [Server thread/INFO]: [@] 2...
+[00:10:38] [Server thread/INFO]: [@] 1...
+[00:10:39] [Server thread/INFO]: [@] Que comece a Guerra! Seja o último a sobrar no Topo!
+[00:10:55] [Server thread/WARN]: Entity aah['MasterProject'/1290, l='ServerLevel[HackoonSpace]', x=505.50, y=56.00, z=510.50] left loaded chunk area
+[00:11:34] [Server thread/INFO]: <MasterProject> a
+[00:11:46] [Server thread/INFO]: <MasterProject> guitarrinha?
+[00:11:52] [Server thread/INFO]: <Guitarrinha> n posso fala bb
+[00:11:56] [Server thread/INFO]: <kyleflick124> bb
+[00:12:01] [Server thread/INFO]: <MasterProject> a gnt vai testar rapidao
+[00:12:02] [Server thread/INFO]: <kyleflick124> guitarrinha vc ta na live
+[00:12:05] [Server thread/INFO]: <MasterProject> a reuniao
+[00:12:06] [Server thread/INFO]: <kyleflick124> fala oi pra live
+[00:12:13] [Server thread/INFO]: <MasterProject> vota em mim quando abrir, tudo bem?
+[00:12:17] [Server thread/INFO]: <kyleflick124> to ao vivo no discord
+[00:12:27] [Server thread/INFO]: <Guitarrinha> mãe to na live
+[00:12:49] [Server thread/INFO]: <MasterProject> vote em mim plox
+[00:12:53] [Server thread/INFO]: <kyleflick124> guitar
+[00:12:56] [Server thread/INFO]: <kyleflick124> vota no danilo
+[00:13:19] [Server thread/INFO]: <MasterProject> blz
+[00:13:36] [Server thread/INFO]: <MasterProject> agora vamo tentar eu votar no fer, e o resto skippa
+[00:14:08] [Server thread/INFO]: <MasterProject> skippem plox
+[00:14:34] [Server thread/INFO]: <kyleflick124> foi mal, eu nao tava olhando
+[00:15:09] [Server thread/INFO]: <MasterProject> agora vamo fazer assim
+[00:15:14] [Server thread/INFO]: <MasterProject> eu voto no fer
+[00:15:17] [Server thread/INFO]: <MasterProject> fer vota em mim
+[00:15:21] [Server thread/INFO]: <MasterProject> guitarra skippa
+[00:15:24] [Server thread/INFO]: <kyleflick124> ok
+[00:15:30] [Server thread/INFO]: <Guitarrinha> blz
+[00:15:34] [Server thread/INFO]: <MasterProject> top
+[00:15:36] [Server thread/INFO]: <kyleflick124> boa
+[00:15:53] [Server thread/INFO]: <MasterProject> valeu, por enquanto é isso
+[00:16:02] [Server thread/INFO]: <kyleflick124> ok boa
+[00:16:04] [Server thread/INFO]: <MasterProject> eu preciso fazer testes com pessoas mortas no jogo
+[00:16:10] [Server thread/INFO]: <kyleflick124> :O
+[00:16:14] [Server thread/INFO]: <MasterProject> pq eu acho que é isso que ta quebrando
+[00:16:20] [Server thread/INFO]: <MasterProject> mas aí precisa de 4
+[00:16:28] [Server thread/INFO]: <kyleflick124> ah sim
+[00:19:35] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[00:19:35] [Server thread/INFO]: kyleflick124 left the game
+[00:20:05] [Server thread/INFO]: Guitarrinha lost connection: Disconnected
+[00:20:05] [Server thread/INFO]: Guitarrinha left the game
+[00:21:49] [Server thread/INFO]: MasterProject lost connection: Disconnected
+[00:21:49] [Server thread/INFO]: MasterProject left the game
+[00:24:10] [Server thread/INFO]: Stopping server
+[00:24:10] [Server thread/INFO]: Saving players
+[00:24:10] [Server thread/INFO]: Saving worlds
+[00:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
+[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[00:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
+[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
+[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
