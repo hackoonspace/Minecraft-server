@@ -1,66 +1,12 @@
-[00:01:57] [Server thread/WARN]: MasterProject moved too quickly! -10.352573002019597,0.0,2.695825189568552
-[00:03:17] [Server thread/INFO]: <MasterProject> fer, vc ta aí?
-[00:08:25] [Server thread/INFO]: <kyleflick124> s
-[00:08:37] [Server thread/INFO]: <MasterProject> vc pode me ajudar rapidao a testar a votacao?
-[00:08:57] [Server thread/INFO]: <kyleflick124> ajudo s
-[00:09:41] [Server thread/INFO]: <MasterProject> posso dar tp em vc?
-[00:09:45] [Server thread/INFO]: <kyleflick124> owo
-[00:10:03] [Server thread/INFO]: Guitarrinha[/127.0.0.1:11980] logged in with entity id 5509 at (506.1636438385912, 56.0, 504.63504530654785)
-[00:10:03] [Server thread/INFO]: Guitarrinha joined the game
-[00:10:35] [Server thread/INFO]: [@] Iniciando o jogo...
-[00:10:36] [Server thread/INFO]: [@] 3...
-[00:10:37] [Server thread/INFO]: [@] 2...
-[00:10:38] [Server thread/INFO]: [@] 1...
-[00:10:39] [Server thread/INFO]: [@] Que comece a Guerra! Seja o último a sobrar no Topo!
-[00:10:55] [Server thread/WARN]: Entity aah['MasterProject'/1290, l='ServerLevel[HackoonSpace]', x=505.50, y=56.00, z=510.50] left loaded chunk area
-[00:11:34] [Server thread/INFO]: <MasterProject> a
-[00:11:46] [Server thread/INFO]: <MasterProject> guitarrinha?
-[00:11:52] [Server thread/INFO]: <Guitarrinha> n posso fala bb
-[00:11:56] [Server thread/INFO]: <kyleflick124> bb
-[00:12:01] [Server thread/INFO]: <MasterProject> a gnt vai testar rapidao
-[00:12:02] [Server thread/INFO]: <kyleflick124> guitarrinha vc ta na live
-[00:12:05] [Server thread/INFO]: <MasterProject> a reuniao
-[00:12:06] [Server thread/INFO]: <kyleflick124> fala oi pra live
-[00:12:13] [Server thread/INFO]: <MasterProject> vota em mim quando abrir, tudo bem?
-[00:12:17] [Server thread/INFO]: <kyleflick124> to ao vivo no discord
-[00:12:27] [Server thread/INFO]: <Guitarrinha> mãe to na live
-[00:12:49] [Server thread/INFO]: <MasterProject> vote em mim plox
-[00:12:53] [Server thread/INFO]: <kyleflick124> guitar
-[00:12:56] [Server thread/INFO]: <kyleflick124> vota no danilo
-[00:13:19] [Server thread/INFO]: <MasterProject> blz
-[00:13:36] [Server thread/INFO]: <MasterProject> agora vamo tentar eu votar no fer, e o resto skippa
-[00:14:08] [Server thread/INFO]: <MasterProject> skippem plox
-[00:14:34] [Server thread/INFO]: <kyleflick124> foi mal, eu nao tava olhando
-[00:15:09] [Server thread/INFO]: <MasterProject> agora vamo fazer assim
-[00:15:14] [Server thread/INFO]: <MasterProject> eu voto no fer
-[00:15:17] [Server thread/INFO]: <MasterProject> fer vota em mim
-[00:15:21] [Server thread/INFO]: <MasterProject> guitarra skippa
-[00:15:24] [Server thread/INFO]: <kyleflick124> ok
-[00:15:30] [Server thread/INFO]: <Guitarrinha> blz
-[00:15:34] [Server thread/INFO]: <MasterProject> top
-[00:15:36] [Server thread/INFO]: <kyleflick124> boa
-[00:15:53] [Server thread/INFO]: <MasterProject> valeu, por enquanto é isso
-[00:16:02] [Server thread/INFO]: <kyleflick124> ok boa
-[00:16:04] [Server thread/INFO]: <MasterProject> eu preciso fazer testes com pessoas mortas no jogo
-[00:16:10] [Server thread/INFO]: <kyleflick124> :O
-[00:16:14] [Server thread/INFO]: <MasterProject> pq eu acho que é isso que ta quebrando
-[00:16:20] [Server thread/INFO]: <MasterProject> mas aí precisa de 4
-[00:16:28] [Server thread/INFO]: <kyleflick124> ah sim
-[00:19:35] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
-[00:19:35] [Server thread/INFO]: kyleflick124 left the game
-[00:20:05] [Server thread/INFO]: Guitarrinha lost connection: Disconnected
-[00:20:05] [Server thread/INFO]: Guitarrinha left the game
-[00:21:49] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[00:21:49] [Server thread/INFO]: MasterProject left the game
-[00:24:10] [Server thread/INFO]: Stopping server
-[00:24:10] [Server thread/INFO]: Saving players
-[00:24:10] [Server thread/INFO]: Saving worlds
-[00:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
-[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[00:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
-[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
-[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:24:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:07:03] [Server thread/INFO]: Stopping server
+[04:07:03] [Server thread/INFO]: Saving players
+[04:07:03] [Server thread/INFO]: Saving worlds
+[04:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
+[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[04:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
+[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
+[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
