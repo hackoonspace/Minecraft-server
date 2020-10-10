@@ -1,12 +1,12 @@
-[04:07:03] [Server thread/INFO]: Stopping server
-[04:07:03] [Server thread/INFO]: Saving players
-[04:07:03] [Server thread/INFO]: Saving worlds
-[04:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
-[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[04:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
-[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
-[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:07:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:31] [Server thread/INFO]: Stopping server
+[00:09:31] [Server thread/INFO]: Saving players
+[00:09:31] [Server thread/INFO]: Saving worlds
+[00:09:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
+[00:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[00:09:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
+[00:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
+[00:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[00:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
