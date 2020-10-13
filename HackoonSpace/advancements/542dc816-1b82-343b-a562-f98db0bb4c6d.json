@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-10-12 22:33:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-09-20 01:05:29 -0300"
@@ -1438,7 +1444,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2020-10-07 22:12:15 -0300",
-      "cooked_beef": "2020-09-21 22:44:18 -0300"
+      "cooked_beef": "2020-09-21 22:44:18 -0300",
+      "enchanted_golden_apple": "2020-10-12 22:04:51 -0300"
     },
     "done": false
   },
@@ -2309,6 +2316,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2020-09-20 18:15:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2020-10-12 22:04:48 -0300"
     },
     "done": true
   },

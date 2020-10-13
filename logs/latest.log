@@ -1,12 +1,419 @@
-[01:11:04] [Server thread/INFO]: Stopping server
-[01:11:04] [Server thread/INFO]: Saving players
-[01:11:04] [Server thread/INFO]: Saving worlds
-[01:11:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
-[01:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[01:11:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
-[01:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:11:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
-[01:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[01:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:45:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:45:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:45:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:45:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:45:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:45:16] [main/INFO]: Reloading ResourceManager: Default
+[13:45:17] [Worker-Main-8/INFO]: Loaded 7 recipes
+[13:45:17] [Worker-Main-8/INFO]: Loaded 927 advancements
+[13:45:19] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[13:45:19] [Server thread/INFO]: Loading properties
+[13:45:19] [Server thread/INFO]: Default game type: CREATIVE
+[13:45:19] [Server thread/INFO]: Generating keypair
+[13:45:19] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[13:45:19] [Server thread/INFO]: Using default channel type
+[13:45:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:45:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:45:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:45:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:45:20] [Server thread/INFO]: Preparing level "HackoonSpace"
+[13:45:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:45:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:28] [Server thread/INFO]: Time elapsed: 7639 ms
+[13:45:28] [Server thread/INFO]: Done (7.765s)! For help, type "help"
+[19:47:01] [Server thread/INFO]: Infinitemarcus[/127.0.0.1:3464] logged in with entity id 11 at (14.693655772359364, 117.87605972864682, 12.241083053328197)
+[19:47:01] [Server thread/INFO]: Infinitemarcus joined the game
+[19:56:18] [Server thread/WARN]: Trying to add entity with duplicated UUID f9460d35-8201-47a8-80e5-3b158eefd462. Existing minecraft:armor_stand#15, new: minecraft:armor_stand#15
+[19:56:19] [Server thread/WARN]: Trying to add entity with duplicated UUID aa1b1d30-6666-46cf-9294-85decd9d8870. Existing minecraft:armor_stand#16, new: minecraft:armor_stand#16
+[19:56:21] [Server thread/WARN]: Trying to add entity with duplicated UUID ef7e0abf-d191-4db3-9d92-4697b26caae6. Existing minecraft:armor_stand#17, new: minecraft:armor_stand#17
+[19:56:22] [Server thread/WARN]: Trying to add entity with duplicated UUID b5807d0b-31cd-43e0-93d1-725ccc60b430. Existing minecraft:armor_stand#18, new: minecraft:armor_stand#18
+[19:56:26] [Server thread/WARN]: Trying to add entity with duplicated UUID 330e0f0f-4f75-4cb5-8c4e-5deb95fcd9f8. Existing minecraft:armor_stand#19, new: minecraft:armor_stand#19
+[19:56:28] [Server thread/WARN]: Trying to add entity with duplicated UUID d20eedb0-9efb-4c8b-b652-f88cf140cba4. Existing minecraft:armor_stand#20, new: minecraft:armor_stand#20
+[19:59:34] [Server thread/WARN]: Entity aah['Infinitemarcus'/11, l='ServerLevel[HackoonSpace]', x=5000.50, y=56.00, z=5000.50] left loaded chunk area
+[20:02:23] [Server thread/INFO]: MasterProject[/127.0.0.1:3576] logged in with entity id 26 at (474.30000001192093, 47.200000047683716, 481.82207847145594)
+[20:02:23] [Server thread/INFO]: MasterProject joined the game
+[20:03:23] [Server thread/WARN]: MasterProject moved too quickly! 0.9932041008120791,0.0,-10.27143186552712
+[20:04:25] [Server thread/WARN]: MasterProject moved too quickly! 6.048055984252187,3.4638624192553777,-7.425366762341355
+[20:04:54] [Server thread/INFO]: yR_Mew[/127.0.0.1:12366] logged in with entity id 1308 at (569.5, 56.0, 407.5)
+[20:04:54] [Server thread/INFO]: yR_Mew joined the game
+[20:07:29] [Server thread/INFO]: SrM1CH3L[/127.0.0.1:12398] logged in with entity id 1309 at (576.0475713784273, 56.0, 427.0182626772709)
+[20:07:29] [Server thread/INFO]: SrM1CH3L joined the game
+[20:07:59] [Server thread/WARN]: Infinitemarcus moved too quickly! -4516.930691221294,-11.532606148326266,-4722.302018538978
+[20:08:06] [Server thread/INFO]: MasterProject fell out of the world
+[20:08:48] [Server thread/INFO]: MasterProject lost connection: Disconnected
+[20:08:48] [Server thread/INFO]: MasterProject left the game
+[20:08:48] [Server thread/INFO]: yR_Mew lost connection: Disconnected
+[20:08:48] [Server thread/INFO]: yR_Mew left the game
+[20:08:48] [Server thread/INFO]: SrM1CH3L lost connection: Disconnected
+[20:08:48] [Server thread/INFO]: SrM1CH3L left the game
+[20:08:51] [Server thread/INFO]: SrM1CH3L[/127.0.0.1:12458] logged in with entity id 1311 at (508.6283959845724, 56.0, 510.8131270406292)
+[20:08:51] [Server thread/INFO]: SrM1CH3L joined the game
+[20:08:52] [Server thread/INFO]: MasterProject[/127.0.0.1:12461] logged in with entity id 1312 at (505.3637752387177, 56.0, 508.2706200952804)
+[20:08:52] [Server thread/INFO]: MasterProject joined the game
+[20:09:26] [Server thread/INFO]: yR_Mew[/127.0.0.1:8414] logged in with entity id 1313 at (501.36537123267055, 57.0, 506.4670858665027)
+[20:09:26] [Server thread/INFO]: yR_Mew joined the game
+[20:10:31] [Server thread/INFO]: <SrM1CH3L> danilo kinda sus
+[20:10:56] [Server thread/INFO]: <SrM1CH3L> :O
+[20:12:55] [Server thread/WARN]: Infinitemarcus moved too quickly! 21.06575780567323,0.0,-32.08309049357729
+[20:13:09] [Server thread/WARN]: Infinitemarcus moved too quickly! -111.71135287245215,1.0,37.57203923892985
+[20:13:58] [Server thread/INFO]: <SrM1CH3L> danilo kinda susu
+[20:15:46] [Server thread/WARN]: yR_Mew moved wrongly!
+[20:15:56] [Server thread/WARN]: Infinitemarcus moved too quickly! 9.940204699199057,-3.6743428895473755,-43.908546967426446
+[20:17:39] [Server thread/INFO]: <MasterProject> a
+[20:19:31] [Server thread/INFO]: <MasterProject> a
+[20:23:25] [Server thread/WARN]: SrM1CH3L moved too quickly! 4.996349449429204,0.0,8.85784873313338
+[20:23:25] [Server thread/WARN]: yR_Mew moved too quickly! -7.699540310446878,0.0,6.525435322892804
+[20:28:25] [Server thread/WARN]: SrM1CH3L moved too quickly! -6.721315536229554,0.0,7.818144705078112
+[20:28:25] [Server thread/WARN]: yR_Mew moved too quickly! -4.180974609306304,0.0,9.284791817109294
+[20:32:25] [Server thread/INFO]: <Infinitemarcus> e
+[20:40:48] [Server thread/INFO]: SrM1CH3L hit the ground too hard
+[20:40:54] [Server thread/WARN]: MasterProject moved too quickly! 7.0725208980024945,0.0,-7.874634068971773
+[20:41:22] [Server thread/INFO]: <MasterProject> a
+[20:41:22] [Server thread/WARN]: Infinitemarcus moved too quickly! -464.1175255498636,42.0,-457.7500754328766
+[20:41:22] [Server thread/WARN]: Infinitemarcus moved too quickly! -464.1175255498636,42.0,-457.7500754328766
+[20:41:54] [Server thread/WARN]: Entity aah['MasterProject'/1312, l='ServerLevel[HackoonSpace]', x=505.50, y=56.00, z=510.50] left loaded chunk area
+[20:45:25] [Server thread/WARN]: SrM1CH3L moved too quickly! 0.0,0.0,-10.472116086656115
+[20:48:10] [Server thread/WARN]: Infinitemarcus moved wrongly!
+[20:58:54] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[21:05:31] [Server thread/INFO]: MasterProject has made the advancement [Isn't It Iron Pick]
+[21:07:27] [Server thread/INFO]: SrM1CH3L has made the advancement [Into Fire]
+[21:14:10] [Server thread/INFO]: <SrM1CH3L> rerpercur~sao
+[21:14:13] [Server thread/INFO]: <SrM1CH3L> repercursao
+[21:14:18] [Server thread/INFO]: <SrM1CH3L> rerpecursao
+[21:14:22] [Server thread/INFO]: <yR_Mew> repecursao
+[21:14:51] [Server thread/INFO]: <SrM1CH3L> repercussao
+[21:14:58] [Server thread/INFO]: <SrM1CH3L> repercursao
+[21:15:20] [Server thread/INFO]: <yR_Mew> rerpercursao
+[21:17:16] [Server thread/INFO]: lordxcaio[/127.0.0.1:9516] logged in with entity id 2694 at (10.378090528147293, 103.5, 9.926274676582214)
+[21:17:16] [Server thread/INFO]: lordxcaio joined the game
+[21:17:35] [Server thread/WARN]: lordxcaio moved too quickly! 0.0,-11.026982712340207,0.010261166171289915
+[21:18:45] [Server thread/INFO]: Infinitemarcus was slain by lordxcaio using [Impostor Knife]
+[21:19:13] [Server thread/WARN]: Infinitemarcus moved too quickly! 498.8989229933421,1.1212968405391948,498.91963933533725
+[21:19:13] [Server thread/WARN]: Infinitemarcus moved too quickly! 498.8989229933421,1.1212968405391948,498.91963933533725
+[21:19:49] [Server thread/INFO]: Infinitemarcus was slain by yR_Mew
+[21:20:28] [Server thread/INFO]: MasterProject was slain by lordxcaio
+[21:20:37] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[21:20:46] [Server thread/INFO]: lordxcaio was slain by MasterProject
+[21:20:52] [Server thread/WARN]: lordxcaio moved too quickly! 462.30836115126726,-57.0,461.2369408191181
+[21:21:04] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[21:21:05] [Server thread/WARN]: Infinitemarcus moved too quickly! 500.08514973962707,-3.0,504.5430894623287
+[21:21:05] [Server thread/WARN]: Infinitemarcus moved too quickly! 500.08514973962707,-3.0,504.5430894623287
+[21:21:13] [Server thread/INFO]: Bariani[/127.0.0.1:9558] logged in with entity id 2706 at (500.6999999880792, 56.0, 509.0258397659289)
+[21:21:13] [Server thread/INFO]: Bariani joined the game
+[21:21:19] [Server thread/WARN]: Infinitemarcus moved too quickly! 12.911285991787508,-0.9140114523432956,6.467069386365722
+[21:21:19] [Server thread/WARN]: Infinitemarcus moved too quickly! 12.911285991787508,-0.9140114523432956,6.467069386365722
+[21:29:28] [Server thread/INFO]: SrM1CH3L lost connection: Disconnected
+[21:29:28] [Server thread/INFO]: SrM1CH3L left the game
+[21:29:53] [Server thread/INFO]: lordxcaio was slain by Infinitemarcus
+[21:30:11] [Server thread/INFO]: [@] a
+[21:30:27] [Server thread/INFO]: Infinitemarcus was killed by magic
+[21:30:47] [Server thread/WARN]: Infinitemarcus moved too quickly! 500.1783720186001,-1.5800000131130219,515.51806041995
+[21:30:47] [Server thread/WARN]: Infinitemarcus moved too quickly! 500.1783720186001,-1.5800000131130219,515.51806041995
+[21:31:15] [Server thread/INFO]: Infinitemarcus has made the advancement [A Throwaway Joke]
+[21:31:44] [Server thread/INFO]: Infinitemarcus was killed by magic whilst trying to escape Bariani
+[21:32:25] [Server thread/WARN]: Infinitemarcus moved too quickly! 493.6475285990274,1.0,512.3904530235847
+[21:32:25] [Server thread/WARN]: Infinitemarcus moved too quickly! 493.6475285990274,1.0,512.3904530235847
+[21:32:34] [Server thread/INFO]: lordxcaio was slain by Infinitemarcus
+[21:34:15] [Server thread/WARN]: lordxcaio moved too quickly! 458.0449116090359,-55.90217651804557,474.1584321315955
+[21:35:50] [Server thread/INFO]: yR_Mew hit the ground too hard
+[21:37:12] [Server thread/WARN]: lordxcaio moved wrongly!
+[21:39:57] [Server thread/INFO]: Bariani lost connection: Kicked for spamming
+[21:39:57] [Server thread/INFO]: Bariani left the game
+[21:39:57] [Server thread/WARN]: handleDisconnection() called twice
+[21:40:10] [Server thread/INFO]: Bariani[/127.0.0.1:9655] logged in with entity id 2778 at (652.1471915476201, 56.0, 403.79918192132425)
+[21:40:10] [Server thread/INFO]: Bariani joined the game
+[21:44:03] [Server thread/INFO]: <Infinitemarcus> a
+[21:44:45] [Server thread/INFO]: Feshoter[/127.0.0.1:9666] logged in with entity id 2784 at (501.15929491559274, 40.0, 538.9973451240355)
+[21:44:45] [Server thread/INFO]: Feshoter joined the game
+[21:49:55] [Server thread/INFO]: Infinitemarcus fell out of the world
+[21:51:07] [Server thread/WARN]: Bariani moved wrongly!
+[21:51:55] [Server thread/INFO]: <Feshoter> poura
+[21:52:21] [Server thread/INFO]: Guitarrinha[/127.0.0.1:9706] logged in with entity id 2824 at (17.587722924044268, 129.8647267074436, -30.306067954440955)
+[21:52:21] [Server thread/INFO]: Guitarrinha joined the game
+[21:53:50] [Server thread/WARN]: Feshoter moved wrongly!
+[21:54:05] [Server thread/WARN]: Guitarrinha moved too quickly! 10.26978668889069,0.41999998688697815,-1.149789020620858
+[21:54:36] [Server thread/WARN]: MasterProject moved too quickly! -10.0193563153191,0.0,1.5824289593589356
+[21:54:42] [Server thread/INFO]: <Feshoter> lord sus
+[21:55:38] [Server thread/WARN]: Guitarrinha moved too quickly! -9.55192631202533,1.630268635893657,-2.6978588165970905
+[21:56:04] [Server thread/INFO]: Feshoter has made the advancement [Into Fire]
+[21:56:20] [Server thread/WARN]: Guitarrinha moved too quickly! 8.733889100403474,-0.003016261509046103,-4.996797307955319
+[21:56:46] [Server thread/INFO]: SrM1CH3L[/127.0.0.1:9721] logged in with entity id 2836 at (503.5, 56.0, 501.5)
+[21:56:46] [Server thread/INFO]: SrM1CH3L joined the game
+[21:56:54] [Server thread/INFO]: <SrM1CH3L> pai ta on
+[21:57:10] [Server thread/INFO]: <lordxcaio> p41 t4 0N
+[21:57:13] [Server thread/INFO]: <lordxcaio> ch4m4
+[21:57:27] [Server thread/INFO]: yR_Mew fell out of the world
+[21:57:33] [Server thread/INFO]: Infinitemarcus fell out of the world
+[21:57:35] [Server thread/INFO]: yR_Mew lost connection: Kicked by an operator
+[21:57:35] [Server thread/INFO]: yR_Mew left the game
+[21:57:37] [Server thread/WARN]: Guitarrinha moved too quickly! -6.710684578344171,-0.20326439933130303,7.743070232403284
+[21:57:41] [Server thread/WARN]: Infinitemarcus moved too quickly! 494.6938206840714,-3.0,516.4377888144037
+[21:57:55] [Server thread/WARN]: Guitarrinha moved too quickly! 9.497217419683125,-0.5813359922251706,-3.37730107556564
+[21:58:01] [Server thread/WARN]: Guitarrinha moved too quickly! -7.672122109311829,-2.127890238205488,6.096572924982638
+[21:59:52] [Server thread/WARN]: Guitarrinha moved too quickly! 9.68383499989227,0.796735600668697,-2.6411754453674234
+[22:00:54] [Server thread/INFO]: <Feshoter> ja volto
+[22:00:55] [Server thread/INFO]: Feshoter lost connection: Disconnected
+[22:00:55] [Server thread/INFO]: Feshoter left the game
+[22:02:45] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:03:19] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:03:45] [Server thread/INFO]: Bariani has made the advancement [Cover Me With Diamonds]
+[22:03:49] [Server thread/INFO]: Bariani was slain by SrM1CH3L
+[22:03:54] [Server thread/WARN]: Guitarrinha moved too quickly! 2.032502745255499,0.11584063815757872,-9.834243140320268
+[22:04:01] [Server thread/WARN]: Guitarrinha moved too quickly! -2.7048465428418353,-0.4959870982234804,9.648526122309079
+[22:04:08] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio using [Impostor Knife]
+[22:05:23] [Server thread/WARN]: Guitarrinha moved too quickly! -10.11263754751974,-0.15154530392895538,-1.1738971699261356
+[22:05:37] [Server thread/INFO]: Infinitemarcus was slain by lordxcaio using [Impostor Knife]
+[22:05:43] [Server thread/WARN]: Infinitemarcus moved too quickly! 500.4664298387427,-2.0,514.9125307932864
+[22:05:43] [Server thread/WARN]: Infinitemarcus moved too quickly! 500.4664298387427,-2.0,514.9125307932864
+[22:05:44] [Server thread/INFO]: Bariani has made the advancement [Sweet Dreams]
+[22:05:55] [Server thread/WARN]: Guitarrinha moved too quickly! -9.654315186803956,-0.17542329595209338,3.265293406140529
+[22:09:01] [Server thread/WARN]: Guitarrinha moved too quickly! 9.874809607008729,0.0,2.8841418674076635
+[22:10:53] [Server thread/INFO]: <Infinitemarcus> ,
+[22:10:59] [Server thread/WARN]: Guitarrinha moved too quickly! -9.371398086823433,-0.06723125738518831,-4.2145299501395925
+[22:11:08] [Server thread/WARN]: Guitarrinha moved too quickly! -1.6226225599575628,0.0,9.908844999517783
+[22:11:12] [Server thread/WARN]: lordxcaio moved wrongly!
+[22:15:15] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:15:28] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:15:30] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:15:32] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:15:53] [Server thread/WARN]: Guitarrinha was kicked for floating too long!
+[22:15:53] [Server thread/INFO]: Guitarrinha lost connection: Flying is not enabled on this server
+[22:15:53] [Server thread/INFO]: Guitarrinha left the game
+[22:16:00] [Server thread/INFO]: Guitarrinha[/127.0.0.1:9783] logged in with entity id 3580 at (506.7656462141548, 57.24918707874468, 508.98181074785896)
+[22:16:00] [Server thread/INFO]: Guitarrinha joined the game
+[22:16:36] [Server thread/WARN]: MasterProject moved too quickly! 10.280141278544079,0.0,-3.3195299059508443
+[22:17:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3694, l='ServerLevel[HackoonSpace]', x=506.34, y=57.53, z=508.19]
+[22:18:55] [Server thread/INFO]: <MasterProject> 565 57 428
+[22:19:47] [Server thread/INFO]: <MasterProject> 565 57 428
+[22:20:10] [Server thread/INFO]: <Infinitemarcus> 565 57 428
+[22:20:12] [Server thread/INFO]: <SrM1CH3L> 56
+[22:21:31] [Server thread/INFO]: Infinitemarcus fell from a high place
+[22:21:38] [Server thread/WARN]: Infinitemarcus moved too quickly! 497.7444453285186,0.0013359791121487774,518.0118349330345
+[22:21:38] [Server thread/WARN]: Infinitemarcus moved too quickly! 497.7444453285186,0.0013359791121487774,518.0118349330345
+[22:21:51] [Server thread/WARN]: Infinitemarcus moved too quickly! -18.26345129275893,-12.842657117517199,10.809859974681558
+[22:22:14] [Server thread/INFO]: SrM1CH3L was slain by Guitarrinha
+[22:23:05] [Server thread/WARN]: Guitarrinha moved too quickly! -2.9763995218144146,0.0,-9.614462542429294
+[22:25:22] [Server thread/WARN]: lordxcaio moved wrongly!
+[22:25:28] [Server thread/WARN]: Guitarrinha moved too quickly! 8.632769481665946,0.0,-5.493547624044311
+[22:26:07] [Server thread/INFO]: Feshoter[/127.0.0.1:9825] logged in with entity id 4080 at (500.5, 56.0, 500.5)
+[22:26:07] [Server thread/INFO]: Feshoter joined the game
+[22:26:08] [Server thread/INFO]: yR_Mew[/127.0.0.1:9827] logged in with entity id 4081 at (5.571211651941783, 99.41999998688698, -4.7872251590000445)
+[22:26:08] [Server thread/INFO]: yR_Mew joined the game
+[22:26:29] [Server thread/WARN]: lordxcaio moved wrongly!
+[22:27:31] [Server thread/INFO]: Feshoter fell from a high place
+[22:28:54] [Server thread/INFO]: kyleflick124[/127.0.0.1:9836] logged in with entity id 4102 at (558.5, 57.0, 420.5)
+[22:28:54] [Server thread/INFO]: kyleflick124 joined the game
+[22:29:06] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[22:29:06] [Server thread/INFO]: kyleflick124 left the game
+[22:29:09] [Server thread/INFO]: kyleflick124[/127.0.0.1:9841] logged in with entity id 4103 at (560.761161323726, 57.0, 420.72946587000996)
+[22:29:09] [Server thread/INFO]: kyleflick124 joined the game
+[22:30:12] [Server thread/WARN]: Infinitemarcus moved too quickly! -12.688594589994295,1.0,-0.2910993036484797
+[22:31:28] [Server thread/INFO]: [@] teste
+[22:31:36] [Server thread/INFO]: [@] teste
+[22:31:39] [Server thread/INFO]: [@] teste
+[22:31:53] [Server thread/INFO]: <lordxcaio> zzzzzzz
+[22:31:57] [Server thread/INFO]: <SrM1CH3L> zzzzzzzzzzzzzzzzz
+[22:32:00] [Server thread/INFO]: <Bariani> ronc
+[22:32:06] [Server thread/WARN]: yR_Mew moved wrongly!
+[22:32:17] [Server thread/INFO]: yR_Mew has made the advancement [Sweet Dreams]
+[22:32:41] [Server thread/WARN]: Infinitemarcus moved too quickly! 66.29059619150428,-0.5,-17.80879342264643
+[22:33:23] [Server thread/WARN]: yR_Mew moved wrongly!
+[22:33:24] [Server thread/WARN]: yR_Mew moved wrongly!
+[22:38:18] [Server thread/WARN]: Guitarrinha moved too quickly! 7.594510307854307,0.0,6.869918988775908
+[22:39:37] [Server thread/WARN]: Guitarrinha moved too quickly! -10.04952856923046,0.0,-2.524794424195477
+[22:39:48] [Server thread/WARN]: Guitarrinha moved too quickly! 1.971233492158035,0.0,-10.263358785392654
+[22:41:38] [Server thread/WARN]: Guitarrinha moved too quickly! 5.303121523836012,0.0,9.040875083504545
+[22:43:19] [Server thread/WARN]: Guitarrinha moved too quickly! -10.24276708836021,0.0,0.6664435755768068
+[22:44:28] [Server thread/WARN]: Guitarrinha moved too quickly! 2.5789158578296565,0.0,-10.646197940837169
+[22:45:27] [Server thread/INFO]: Bariani lost connection: Disconnected
+[22:45:27] [Server thread/INFO]: Bariani left the game
+[22:47:50] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:47:51] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:47:58] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:47:59] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:48:00] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:48:01] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:48:02] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:48:03] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:48:05] [Server thread/INFO]: [@] REGRAS: \n não existem regras >:)
+[22:48:55] [Server thread/INFO]: Feshoter fell from a high place
+[22:49:04] [Server thread/INFO]: <Feshoter> gente
+[22:49:19] [Server thread/INFO]: <Feshoter> ¯\_(?)_/¯
+[22:49:23] [Server thread/INFO]: <Infinitemarcus> %appdata%
+[22:50:10] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:50:20] [Server thread/INFO]: lordxcaio was slain by kyleflick124
+[22:50:28] [Server thread/INFO]: Infinitemarcus lost connection: Disconnected
+[22:50:28] [Server thread/INFO]: Infinitemarcus left the game
+[22:50:36] [Server thread/INFO]: SrM1CH3L has made the advancement [Sticky Situation]
+[22:50:40] [Server thread/INFO]: SrM1CH3L fell out of the world
+[22:50:53] [Server thread/INFO]: lordxcaio was slain by MasterProject
+[22:51:02] [Server thread/INFO]: Guitarrinha was slain by kyleflick124
+[22:51:19] [Server thread/INFO]: SrM1CH3L was slain by MasterProject
+[22:51:23] [Server thread/INFO]: yR_Mew was slain by MasterProject
+[22:51:26] [Server thread/INFO]: Guitarrinha was killed by magic
+[22:51:30] [Server thread/INFO]: lordxcaio was slain by MasterProject
+[22:51:33] [Server thread/INFO]: Guitarrinha was killed by magic
+[22:51:48] [Server thread/INFO]: Guitarrinha was killed by magic whilst trying to escape SrM1CH3L
+[22:51:51] [Server thread/INFO]: Feshoter was slain by MasterProject
+[22:52:11] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:52:12] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:52:13] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:52:14] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:52:16] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:52:17] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:52:19] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:52:19] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:52:23] [Server thread/INFO]: [@] teste
+[22:52:23] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:52:24] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:52:28] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:52:29] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:52:31] [Server thread/INFO]: [@] teste
+[22:52:35] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:52:44] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:52:49] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:52:53] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:52:58] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:53:00] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:53:02] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:53:06] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:53:07] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:53:09] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:53:13] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:53:15] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:53:17] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:53:20] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:53:22] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:53:23] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:53:27] [Server thread/INFO]: lordxcaio was slain by yR_Mew
+[22:53:31] [Server thread/INFO]: kyleflick124 was slain by lordxcaio
+[22:53:32] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:53:36] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:53:37] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:53:41] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:54:01] [Server thread/INFO]: kyleflick124 was slain by lordxcaio
+[22:54:03] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:54:05] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:54:08] [Server thread/INFO]: kyleflick124 was slain by lordxcaio
+[22:54:10] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:54:12] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:54:16] [Server thread/INFO]: kyleflick124 was slain by lordxcaio
+[22:54:18] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:54:21] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:54:22] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:54:25] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:54:33] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:55:05] [Server thread/WARN]: Guitarrinha moved wrongly!
+[22:55:09] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:55:14] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:55:15] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:55:20] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:55:25] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:55:34] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:55:35] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:55:36] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:55:37] [Server thread/INFO]: SrM1CH3L was slain by lordxcaio
+[22:55:42] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:55:49] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:55:52] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:55:59] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:56:02] [Server thread/INFO]: kyleflick124 was slain by lordxcaio
+[22:56:04] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:56:11] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:56:19] [Server thread/INFO]: lordxcaio was slain by Guitarrinha
+[22:56:24] [Server thread/INFO]: lordxcaio was slain by Guitarrinha
+[22:56:28] [Server thread/INFO]: SrM1CH3L lost connection: Disconnected
+[22:56:28] [Server thread/INFO]: SrM1CH3L left the game
+[22:56:28] [Server thread/INFO]: lordxcaio was slain by Guitarrinha
+[22:56:29] [Server thread/INFO]: yR_Mew was slain by Guitarrinha
+[22:56:41] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:56:42] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:56:52] [Server thread/INFO]: lordxcaio was slain by yR_Mew
+[22:56:55] [Server thread/INFO]: Guitarrinha was slain by yR_Mew
+[22:56:59] [Server thread/INFO]: lordxcaio was slain by yR_Mew
+[22:57:06] [Server thread/INFO]: Guitarrinha was slain by yR_Mew
+[22:57:14] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:57:21] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:57:24] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:57:33] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:57:37] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:57:52] [Server thread/INFO]: yR_Mew was slain by lordxcaio
+[22:57:59] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:58:01] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:58:38] [Server thread/INFO]: Feshoter was killed by magic
+[22:58:43] [Server thread/INFO]: Feshoter was slain by lordxcaio
+[22:58:50] [Server thread/INFO]: Guitarrinha was slain by lordxcaio
+[22:59:01] [Server thread/INFO]: Guitarrinha was slain by yR_Mew
+[22:59:09] [Server thread/INFO]: yR_Mew was slain by Feshoter
+[22:59:10] [Server thread/INFO]: Guitarrinha was slain by Feshoter
+[22:59:19] [Server thread/INFO]: Guitarrinha was slain by Feshoter
+[22:59:20] [Server thread/INFO]: lordxcaio was slain by Feshoter
+[22:59:24] [Server thread/INFO]: yR_Mew was slain by Feshoter
+[23:00:17] [Server thread/INFO]: lordxcaio was slain by Guitarrinha
+[23:00:28] [Server thread/INFO]: Feshoter has completed the challenge [Great View From Up Here]
+[23:00:46] [Server thread/INFO]: kyleflick124 has completed the challenge [Great View From Up Here]
+[23:00:57] [Server thread/INFO]: Feshoter fell from a high place
+[23:00:58] [Server thread/INFO]: kyleflick124 fell from a high place
+[23:01:04] [Server thread/INFO]: kyleflick124 fell from a high place
+[23:01:20] [Server thread/INFO]: kyleflick124 fell from a high place
+[23:01:26] [Server thread/INFO]: yR_Mew has completed the challenge [Great View From Up Here]
+[23:01:28] [Server thread/INFO]: kyleflick124 fell from a high place
+[23:01:28] [Server thread/INFO]: Feshoter fell from a high place
+[23:01:29] [Server thread/INFO]: yR_Mew fell from a high place
+[23:01:42] [Server thread/INFO]: kyleflick124 fell from a high place
+[23:01:44] [Server thread/INFO]: lordxcaio fell from a high place
+[23:02:35] [Server thread/INFO]: Guitarrinha fell out of the world
+[23:04:23] [Server thread/INFO]: Feshoter fell from a high place
+[23:04:29] [Server thread/INFO]: lordxcaio fell from a high place
+[23:04:38] [Server thread/INFO]: lordxcaio lost connection: Disconnected
+[23:04:38] [Server thread/INFO]: lordxcaio left the game
+[23:07:10] [Server thread/WARN]: kyleflick124 moved too quickly! -17.221472611050046,0.0,-2.0390976005980406
+[23:07:10] [Server thread/WARN]: kyleflick124 moved too quickly! -16.873783396401166,0.0,-1.9089425272408675
+[23:07:11] [Server thread/WARN]: kyleflick124 moved too quickly! 17.32488603367915,0.0,-0.5768919840005537
+[23:07:11] [Server thread/WARN]: kyleflick124 moved too quickly! 19.49219611492839,0.0,0.5395103157091512
+[23:07:12] [Server thread/WARN]: kyleflick124 moved too quickly! 16.202835305570602,0.0,-3.4364293094969867
+[23:07:14] [Server thread/WARN]: kyleflick124 moved too quickly! -10.141410496823312,0.0,1.2584461006098309
+[23:07:14] [Server thread/WARN]: kyleflick124 moved too quickly! -10.06169625224419,0.0,1.6436303022936727
+[23:07:14] [Server thread/WARN]: kyleflick124 moved too quickly! -10.040442826644494,0.0,1.7788939801914694
+[23:07:16] [Server thread/WARN]: kyleflick124 moved too quickly! 19.346607157714402,0.0,-3.693210920811964
+[23:07:16] [Server thread/WARN]: kyleflick124 moved too quickly! 10.040098131981324,0.0,-1.7808249161561776
+[23:07:23] [Server thread/WARN]: kyleflick124 moved wrongly!
+[23:07:24] [Server thread/WARN]: kyleflick124 moved wrongly!
+[23:07:26] [Server thread/WARN]: kyleflick124 moved too quickly! -26.65546676852034,0.0,11.636888479771017
+[23:07:28] [Server thread/WARN]: kyleflick124 moved too quickly! 8.965296448530466,0.0,-4.726354311222906
+[23:07:52] [Server thread/WARN]: kyleflick124 moved wrongly!
+[23:07:57] [Server thread/WARN]: kyleflick124 moved too quickly! -15.432500864961526,0.0,-3.187716494053916
+[23:07:57] [Server thread/WARN]: kyleflick124 moved too quickly! -1.4263240421885257,0.0,-10.175736723989417
+[23:07:58] [Server thread/WARN]: kyleflick124 moved too quickly! 10.019032791796917,0.0,-1.5845266223786325
+[23:07:59] [Server thread/WARN]: kyleflick124 moved too quickly! -5.362245949567068,0.0,16.48721517848071
+[23:08:01] [Server thread/WARN]: kyleflick124 moved too quickly! -14.81706263659754,0.0,6.950036243828322
+[23:08:08] [Server thread/WARN]: kyleflick124 moved too quickly! 16.87337673036535,0.0,-0.572892839148949
+[23:08:08] [Server thread/WARN]: kyleflick124 moved too quickly! -19.68878695209179,0.0,0.6684829738960048
+[23:08:23] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[23:08:23] [Server thread/INFO]: kyleflick124 left the game
+[23:10:21] [Server thread/INFO]: Feshoter hit the ground too hard
+[23:12:23] [Server thread/INFO]: <Guitarrinha> oi casado
+[23:13:00] [Server thread/INFO]: yR_Mew was slain by Guitarrinha
+[23:13:07] [Server thread/WARN]: yR_Mew moved too quickly! -85.91588011969475,2.249187078744683,-70.49932013211185
+[23:15:34] [Server thread/INFO]: Guitarrinha lost connection: Disconnected
+[23:15:34] [Server thread/INFO]: Guitarrinha left the game
+[23:16:44] [Server thread/INFO]: Feshoter lost connection: Disconnected
+[23:16:44] [Server thread/INFO]: Feshoter left the game
+[23:17:10] [Server thread/INFO]: MasterProject lost connection: Disconnected
+[23:17:10] [Server thread/INFO]: MasterProject left the game
+[23:22:54] [Server thread/INFO]: yR_Mew lost connection: Disconnected
+[23:22:54] [Server thread/INFO]: yR_Mew left the game
+[23:28:11] [Server thread/INFO]: Stopping server
+[23:28:11] [Server thread/INFO]: Saving players
+[23:28:11] [Server thread/INFO]: Saving worlds
+[23:28:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
+[23:28:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[23:28:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
+[23:28:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:28:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
+[23:28:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:28:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[23:28:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:28:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
