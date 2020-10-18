@@ -1,175 +1,268 @@
-[10:55:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:55:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:55:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:55:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:55:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:55:05] [main/INFO]: Reloading ResourceManager: Default
-[10:55:06] [Worker-Main-7/INFO]: Loaded 7 recipes
-[10:55:06] [Worker-Main-7/INFO]: Loaded 927 advancements
-[10:55:11] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[10:55:11] [Server thread/INFO]: Loading properties
-[10:55:11] [Server thread/INFO]: Default game type: CREATIVE
-[10:55:11] [Server thread/INFO]: Generating keypair
-[10:55:11] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[10:55:11] [Server thread/INFO]: Using default channel type
-[10:55:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:55:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:55:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:55:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:55:13] [Server thread/INFO]: Preparing level "HackoonSpace"
-[10:55:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:55:14] [Server thread/INFO]: Preparing spawn area: 0%
-[10:55:14] [Server thread/INFO]: Preparing spawn area: 0%
-[10:55:14] [Server thread/INFO]: Preparing spawn area: 0%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Preparing spawn area: 67%
-[10:55:22] [Server thread/INFO]: Time elapsed: 9316 ms
-[10:55:22] [Server thread/INFO]: Done (9.561s)! For help, type "help"
-[13:59:46] [Server thread/INFO]: MasterProject[/127.0.0.1:6857] logged in with entity id 14 at (475.4974077977922, 47.2000000476837, 488.1040286476559)
-[13:59:46] [Server thread/INFO]: MasterProject joined the game
-[14:05:12] [Server thread/INFO]: <MasterProject> 603 59 431
-[14:05:51] [Server thread/INFO]: <MasterProject> 605 59 363
-[14:06:27] [Server thread/INFO]: <MasterProject> 603 59 431
-[14:06:45] [Server thread/INFO]: <MasterProject> 603 59 431
-[14:06:59] [Server thread/INFO]: <MasterProject> 605 59 363
-[14:07:55] [Server thread/INFO]: <MasterProject> 605 59 363
-[14:08:36] [Server thread/INFO]: <MasterProject> 605 59 363
-[14:24:46] [Server thread/WARN]: MasterProject moved too quickly! -7.019011908804941,0.0,7.45516078969456
-[14:25:47] [Server thread/WARN]: MasterProject moved too quickly! -0.3697903989569227,0.0,-10.57321894870887
-[14:25:53] [Server thread/WARN]: MasterProject moved too quickly! 7.623412965091518,1.3562400538921366,-6.871784050381336
-[14:27:23] [Server thread/WARN]: MasterProject moved too quickly! -9.810504459651156,0.0,1.992025370069939
-[14:31:38] [Server thread/WARN]: MasterProject moved too quickly! -10.411436822039775,0.0,1.2382606207178242
-[14:32:34] [Server thread/WARN]: MasterProject moved too quickly! -10.220511847770013,0.0,0.16531582587822413
-[14:32:49] [Server thread/WARN]: MasterProject moved too quickly! 10.526006931804886,0.0,-2.535722175908802
-[14:32:59] [Server thread/WARN]: MasterProject moved too quickly! 10.187472754811495,0.0,-2.0957191976024205
-[14:33:26] [Server thread/WARN]: MasterProject moved too quickly! 10.037033983064589,0.0,2.2637508496985106
-[14:33:36] [Server thread/WARN]: MasterProject moved too quickly! -10.388157775827722,0.0,-0.3442385513074555
-[14:33:43] [Server thread/WARN]: MasterProject moved too quickly! -10.481258900802118,0.0,-0.009718439117193611
-[14:33:50] [Server thread/WARN]: MasterProject moved too quickly! -10.241339698604918,0.0,0.13423471625691263
-[14:35:01] [Server thread/WARN]: MasterProject moved too quickly! 10.395927478963074,0.0,0.601480708242093
-[14:47:09] [Server thread/WARN]: MasterProject moved too quickly! 9.614303026962943,0.0,-3.9958065971810015
-[14:48:45] [Server thread/WARN]: MasterProject moved too quickly! 9.369761432048222,0.0,-5.406042018869925
-[14:58:54] [Server thread/WARN]: MasterProject moved too quickly! -3.53901608312151,0.0,10.053973557730387
-[14:59:56] [Server thread/WARN]: MasterProject moved too quickly! 9.286276684739278,0.020575284182427822,-4.579367875677576
-[15:00:30] [Server thread/WARN]: MasterProject moved too quickly! -9.35464426347653,1.6817743597061678,4.685757136393477
-[15:01:06] [Server thread/INFO]: <MasterProject> setblock 644 56 373 air
-[15:01:27] [Server thread/INFO]: <MasterProject> setblock 647 56 420 air
-[15:01:37] [Server thread/INFO]: <MasterProject> setblock 658 57 406 air
-[15:07:12] [Server thread/WARN]: MasterProject moved too quickly! 0.4603183160721187,0.0,-10.67763977944287
-[15:08:39] [Server thread/WARN]: MasterProject moved too quickly! 2.6053127040465256,0.0,-10.343890284624763
-[15:09:46] [Server thread/WARN]: MasterProject moved too quickly! -4.0457685863026995,0.0,9.234508126702508
-[15:09:58] [Server thread/WARN]: MasterProject moved too quickly! -4.580760889795783,0.0,-8.924322722682746
-[15:10:45] [Server thread/WARN]: MasterProject moved too quickly! 5.78494216089598,0.0,8.76405740635471
-[15:11:44] [Server thread/WARN]: MasterProject moved too quickly! 5.3703888785427125,0.0,-8.939682644897744
-[15:12:11] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:12:11] [Server thread/INFO]: MasterProject left the game
-[15:21:50] [Server thread/INFO]: MasterProject[/127.0.0.1:1140] logged in with entity id 1297 at (515.7346394349956, 66.72446162658323, 410.4637155611333)
-[15:21:50] [Server thread/INFO]: MasterProject joined the game
-[15:22:04] [Server thread/WARN]: MasterProject moved too quickly! 3.924697701328796,5.899488880358149,-7.418207407275759
-[15:22:47] [Server thread/WARN]: MasterProject moved too quickly! -9.43709123038127,0.0,3.95042298846397
-[15:23:02] [Server thread/WARN]: MasterProject moved too quickly! 1.6475936708520749,0.0,9.912888541846144
-[15:23:23] [Server thread/WARN]: MasterProject moved too quickly! -9.397369402402092,0.0,4.518791129111833
-[15:23:30] [Server thread/WARN]: MasterProject moved too quickly! -0.628883116109364,0.0,10.797032181932593
-[15:54:29] [Server thread/INFO]: [@] teste
-[15:54:37] [Server thread/INFO]: [@] teste
-[15:54:57] [Server thread/INFO]: [@] teste
-[15:55:05] [Server thread/INFO]: [@] teste
-[15:55:17] [Server thread/INFO]: [@] teste
-[15:55:27] [Server thread/INFO]: [@] teste
-[15:55:38] [Server thread/INFO]: [@] teste
-[15:56:16] [Server thread/INFO]: [@] teste
-[15:56:24] [Server thread/INFO]: [@] teste
-[15:56:46] [Server thread/INFO]: [@] teste
-[15:59:32] [Server thread/INFO]: [@] teste
-[16:01:33] [Server thread/INFO]: [@] teste
-[16:05:54] [Server thread/WARN]: MasterProject moved too quickly! -3.95103624471858,0.48466597929729005,9.975315877063565
-[16:07:21] [Server thread/WARN]: MasterProject moved too quickly! -8.02562061263734,0.3483469962420571,-6.884125359717018
-[16:17:08] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[16:17:08] [Server thread/INFO]: MasterProject left the game
-[16:21:59] [Server thread/INFO]: MasterProject[/127.0.0.1:1880] logged in with entity id 2577 at (480.3598095825448, 47.20000004768365, 484.8826907452487)
-[16:21:59] [Server thread/INFO]: MasterProject joined the game
-[16:23:15] [Server thread/INFO]: [@] teste
-[16:37:53] [Server thread/FATAL]: Error executing task on Server
-java.lang.IllegalArgumentException: Argument 'targets' is defined as fc, not interface dz$a
-	at com.mojang.brigadier.context.CommandContext.getArgument(CommandContext.java:92) ~[server.jar:?]
-	at dz.a(SourceFile:62) ~[server.jar:?]
-	at dz.c(SourceFile:58) ~[server.jar:?]
-	at yc.a(SourceFile:200) ~[server.jar:?]
-	at com.mojang.brigadier.tree.ArgumentCommandNode.listSuggestions(ArgumentCommandNode.java:71) ~[server.jar:?]
-	at com.mojang.brigadier.CommandDispatcher.getCompletionSuggestions(CommandDispatcher.java:596) ~[server.jar:?]
-	at com.mojang.brigadier.CommandDispatcher.getCompletionSuggestions(CommandDispatcher.java:579) ~[server.jar:?]
-	at aay.a(SourceFile:447) ~[server.jar:?]
-	at sh.a(SourceFile:35) ~[server.jar:?]
-	at sh.a(SourceFile:9) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at any.c(SourceFile:144) ~[server.jar:?]
-	at aoc.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:758) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:152) ~[server.jar:?]
-	at any.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.ba(SourceFile:740) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:734) ~[server.jar:?]
-	at any.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:719) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:671) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:254) ~[server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
-[16:37:53] [Server thread/FATAL]: Error executing task on Server
-java.lang.IllegalArgumentException: Argument 'targets' is defined as fc, not interface dz$a
-	at com.mojang.brigadier.context.CommandContext.getArgument(CommandContext.java:92) ~[server.jar:?]
-	at dz.a(SourceFile:62) ~[server.jar:?]
-	at dz.c(SourceFile:58) ~[server.jar:?]
-	at yc.a(SourceFile:200) ~[server.jar:?]
-	at com.mojang.brigadier.tree.ArgumentCommandNode.listSuggestions(ArgumentCommandNode.java:71) ~[server.jar:?]
-	at com.mojang.brigadier.CommandDispatcher.getCompletionSuggestions(CommandDispatcher.java:596) ~[server.jar:?]
-	at com.mojang.brigadier.CommandDispatcher.getCompletionSuggestions(CommandDispatcher.java:579) ~[server.jar:?]
-	at aay.a(SourceFile:447) ~[server.jar:?]
-	at sh.a(SourceFile:35) ~[server.jar:?]
-	at sh.a(SourceFile:9) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at any.c(SourceFile:144) ~[server.jar:?]
-	at aoc.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:758) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:152) ~[server.jar:?]
-	at any.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.ba(SourceFile:740) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:734) ~[server.jar:?]
-	at any.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:719) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:671) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:254) ~[server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
-[17:10:05] [Server thread/WARN]: MasterProject moved too quickly! 0.0,-10.722248667987486,0.0
-[17:41:34] [Server thread/WARN]: MasterProject moved too quickly! 5.389251558363185,0.331831307132191,-8.697539393526426
-[17:44:50] [Server thread/INFO]: <MasterProject> a
-[17:54:36] [Server thread/INFO]: MasterProject lost connection: Timed out
-[17:54:36] [Server thread/INFO]: MasterProject left the game
-[19:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1643211ms or 32864 ticks behind
-[21:41:17] [Server thread/INFO]: Stopping server
-[21:41:17] [Server thread/INFO]: Saving players
-[21:41:17] [Server thread/INFO]: Saving worlds
-[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
-[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
-[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
-[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:17] [Server thread/INFO]: Bariani[/127.0.0.1:21185] logged in with entity id 28290 at (503.3826534635908, 56.0, 502.9065046425797)
+[00:00:17] [Server thread/INFO]: Bariani joined the game
+[00:01:47] [Server thread/INFO]: <Guitarrinha> eu n posso fala mt
+[00:03:47] [Server thread/INFO]: <Guitarrinha> eu tava perto
+[00:03:50] [Server thread/INFO]: <Guitarrinha> n tava la
+[00:03:55] [Server thread/INFO]: <Guitarrinha> eu passei reto
+[00:04:10] [Server thread/INFO]: <Guitarrinha> man
+[00:04:19] [Server thread/INFO]: <Guitarrinha> votei no mew
+[00:04:23] [Server thread/INFO]: <Guitarrinha> blz blz
+[00:04:28] [Server thread/INFO]: <Guitarrinha> man
+[00:04:35] [Server thread/INFO]: <Guitarrinha> eu n posso falaaaaaaaaaaaaaaaaaaaaaaaaaa
+[00:04:48] [Server thread/INFO]: <Guitarrinha> to eascreveendo crlh
+[00:04:55] [Server thread/INFO]: <Guitarrinha> eu n entrei na eletrica
+[00:04:58] [Server thread/INFO]: <Guitarrinha> tava na porta
+[00:05:02] [Server thread/INFO]: <Guitarrinha> eu n entrei
+[00:05:14] [Server thread/INFO]: <Guitarrinha> ou vc ne
+[00:05:37] [Server thread/INFO]: <Guitarrinha> eu era mais n fui eu q mate kkkkkkkkk
+[00:05:51] [Server thread/INFO]: <Feshoter> ue
+[00:06:08] [Server thread/INFO]: <Feshoter> kkkkkkkkkkk
+[00:06:26] [Server thread/INFO]: <Feshoter> eles conseguem ver oq a gente fala?
+[00:06:36] [Server thread/INFO]: <Guitarrinha> n sei
+[00:06:37] [Server thread/INFO]: <kyleflick124> s
+[00:06:43] [Server thread/INFO]: <Feshoter> '-'
+[00:08:38] [Server thread/WARN]: Guitarrinha moved too quickly! 10.30502573124295,0.0,0.5107321118808841
+[00:08:50] [Server thread/INFO]: <Guitarrinha> parabén mew
+[00:08:58] [Server thread/INFO]: <Feshoter> o cara e um genio
+[00:09:07] [Server thread/INFO]: <Guitarrinha> full
+[00:09:09] [Server thread/INFO]: <Feshoter> me mata e culpa o outro sabotador
+[00:09:23] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[00:09:23] [Server thread/INFO]: kyleflick124 left the game
+[00:09:27] [Server thread/INFO]: kyleflick124[/127.0.0.1:21257] logged in with entity id 28311 at (507.06173887567263, 56.0, 503.50288526681993)
+[00:09:27] [Server thread/INFO]: kyleflick124 joined the game
+[00:10:00] [Server thread/INFO]: <Feshoter> to no spawn
+[00:10:03] [Server thread/INFO]: <Feshoter> me ajuda
+[00:10:08] [Server thread/INFO]: <Feshoter> ta cheio de comunista aqui
+[00:13:13] [Server thread/INFO]: <Feshoter> hmmmmm
+[00:15:59] [Server thread/WARN]: MasterProject moved wrongly!
+[00:16:19] [Server thread/INFO]: <Guitarrinha> EU ???????????????????????????
+[00:16:31] [Server thread/INFO]: <Guitarrinha> oi ?????????
+[00:16:45] [Server thread/INFO]: <Guitarrinha> iiiiiiiiiiiiiiiiiiiii
+[00:17:10] [Server thread/INFO]: <Guitarrinha> votei no bari
+[00:17:15] [Server thread/INFO]: <Guitarrinha> man kkkkkkkkkkkkkkkkkk
+[00:17:22] [Server thread/INFO]: <Guitarrinha> querendo jogar a culpa
+[00:18:21] [Server thread/INFO]: <Guitarrinha> kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:18:35] [Server thread/INFO]: <Guitarrinha> kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:18:42] [Server thread/INFO]: <Guitarrinha> foda kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:19:01] [Server thread/INFO]: <Guitarrinha> a corrida foi muito engraçada kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkka
+[00:20:29] [Server thread/INFO]: <Guitarrinha> n
+[00:20:36] [Server thread/INFO]: <Guitarrinha> eu to com o jogo sem som
+[00:20:58] [Server thread/INFO]: <Guitarrinha> foi muito bom kkkkkkkkkkkkkkkkkkk
+[00:22:59] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[00:22:59] [Server thread/INFO]: kyleflick124 left the game
+[00:23:01] [Server thread/INFO]: kyleflick124[/127.0.0.1:21460] logged in with entity id 28349 at (641.647257166984, 56.0, 379.46226366000303)
+[00:23:01] [Server thread/INFO]: kyleflick124 joined the game
+[00:23:18] [Server thread/INFO]: <Guitarrinha> ?
+[00:23:36] [Server thread/INFO]: <Guitarrinha> se n viu é pq mato
+[00:24:41] [Server thread/INFO]: <Feshoter> mew sus
+[00:24:56] [Server thread/INFO]: <Guitarrinha> a
+[00:25:48] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[00:25:48] [Server thread/INFO]: kyleflick124 left the game
+[00:25:52] [Server thread/INFO]: kyleflick124[/127.0.0.1:21517] logged in with entity id 28399 at (614.0934639458504, 56.0, 408.69999998807907)
+[00:25:52] [Server thread/INFO]: kyleflick124 joined the game
+[00:27:57] [Server thread/WARN]: MasterProject moved too quickly! -3.561037297926873,0.0,9.358453000378574
+[00:28:47] [Server thread/INFO]: <MasterProject> a
+[00:28:50] [Server thread/INFO]: <Feshoter> b
+[00:30:50] [Server thread/INFO]: <Guitarrinha> o meu n ta funfando
+[00:30:54] [Server thread/INFO]: <Guitarrinha> dos numeros
+[00:31:27] [Server thread/INFO]: <Guitarrinha> me respondeeeeeeeeeeeeeeeee
+[00:31:42] [Server thread/INFO]: <Guitarrinha> ta
+[00:31:48] [Server thread/INFO]: <Guitarrinha> tentei dias vezes
+[00:31:55] [Server thread/INFO]: <Guitarrinha> puts
+[00:33:04] [Server thread/WARN]: Feshoter moved too quickly! -119.76005358044733,0.0,8.535040778058146
+[00:34:13] [Server thread/INFO]: <Guitarrinha> as duas pessoas q eu votei
+[00:34:17] [Server thread/INFO]: <Guitarrinha> q orgulho
+[00:34:44] [Server thread/INFO]: <kyleflick124> :(
+[00:34:49] [Server thread/INFO]: <Guitarrinha> bug nada é choro
+[00:37:23] [Server thread/INFO]: kyleflick124 has made the advancement [Diamonds!]
+[00:37:36] [Server thread/INFO]: <Guitarrinha> coisas esquisitas acontecem com o marcos depois da reunião
+[00:37:57] [Server thread/WARN]: Bariani moved too quickly! 10.79227354856971,0.8336320298843347,-3.702475390816687
+[00:38:34] [Server thread/INFO]: Guitarrinha has made the advancement [Diamonds!]
+[00:39:01] [Server thread/INFO]: <Guitarrinha> melhor com carvao
+[00:39:41] [Server thread/INFO]: <Guitarrinha> quem?
+[00:40:05] [Server thread/INFO]: <Guitarrinha> eu tinha uma monitora de MD
+[00:40:15] [Server thread/INFO]: <Guitarrinha> q fasia acompanhamento
+[00:40:27] [Server thread/INFO]: <Feshoter> facia
+[00:40:27] [Server thread/INFO]: <Guitarrinha> a miriane a e francielle kk
+[00:40:34] [Server thread/INFO]: <Feshoter> façia
+[00:40:39] [Server thread/INFO]: Feshoter has made the advancement [Diamonds!]
+[00:40:42] [Server thread/INFO]: yR_Mew has made the advancement [Diamonds!]
+[00:41:15] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[00:41:15] [Server thread/INFO]: kyleflick124 left the game
+[00:41:19] [Server thread/INFO]: kyleflick124[/127.0.0.1:21617] logged in with entity id 28442 at (508.7438202701975, 56.0, 509.2142216364467)
+[00:41:19] [Server thread/INFO]: kyleflick124 joined the game
+[00:42:40] [Server thread/INFO]: Infinitemarcus was slain by Guitarrinha
+[00:42:41] [Server thread/WARN]: Infinitemarcus moved too quickly! -5699.251866515323,46.099999999999994,-5506.428222852125
+[00:42:41] [Server thread/WARN]: Infinitemarcus moved too quickly! -5699.251866515323,46.099999999999994,-5506.428222852125
+[00:42:54] [Server thread/INFO]: <Guitarrinha> ta ruim de pvp em marcus
+[00:43:02] [Server thread/WARN]: Infinitemarcus moved too quickly! 5703.472855202602,-46.0,5517.226426658623
+[00:43:02] [Server thread/WARN]: Infinitemarcus moved too quickly! 5703.472855202602,-46.0,5517.226426658623
+[00:43:06] [Server thread/INFO]: Guitarrinha was slain by Infinitemarcus
+[00:43:21] [Server thread/WARN]: Infinitemarcus moved too quickly! -11.193165307951688,-1.0,14.308952778924095
+[00:43:36] [Server thread/WARN]: yR_Mew moved wrongly!
+[00:45:23] [Server thread/INFO]: <Feshoter> como arruma os fios?
+[00:45:33] [Server thread/INFO]: <Feshoter> :(((((((((((((((((((
+[00:45:36] [Server thread/INFO]: <MasterProject> coloca a redstone no ouro
+[00:45:39] [Server thread/INFO]: <MasterProject> do jeito certo
+[00:45:44] [Server thread/INFO]: <MasterProject> se errar, reseta
+[00:46:13] [Server thread/INFO]: <Feshoter> sou burro
+[00:47:11] [Server thread/WARN]: MasterProject moved too quickly! -9.0,0.0,-11.0
+[00:47:11] [Server thread/WARN]: MasterProject moved too quickly! -7.5238989474088385,0.0,-11.759397171375724
+[00:47:11] [Server thread/WARN]: MasterProject moved too quickly! -6.961392163241953,0.0,-12.270693333293423
+[00:47:11] [Server thread/WARN]: MasterProject moved too quickly! -6.745441801056927,0.0,-12.587512557059938
+[00:47:11] [Server thread/WARN]: MasterProject moved too quickly! -6.265636373801726,0.0,-13.651873722914445
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -6.028596150025237,0.0,-13.928730192610715
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -5.740690522135765,0.0,-14.157356927400258
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -5.740690522135765,0.0,-14.157356927400258
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -5.093764183788039,0.0,-14.54672871025906
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -4.406235664706514,0.0,-14.89254495038648
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -3.3293408243808926,0.0,-15.32554374978281
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -2.5781449318478735,0.0,-15.509462381110211
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -2.5781449318478735,0.0,-15.509462381110211
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -1.8156324001946587,0.0,-15.650524242497227
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -1.4325508636272843,0.0,-15.713190382292794
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! -0.6624134426656383,0.0,-15.809777806620446
+[00:47:12] [Server thread/WARN]: MasterProject moved too quickly! 0.051161731806018906,0.0,-15.864283236237384
+[00:47:13] [Server thread/WARN]: MasterProject moved too quickly! 0.14853484425282204,0.0,-15.869094172236657
+[00:47:13] [Server thread/WARN]: MasterProject moved too quickly! 0.14853484425282204,0.0,-15.869094172236657
+[00:47:13] [Server thread/WARN]: MasterProject moved too quickly! 0.14853484425282204,0.0,-15.869094172236657
+[00:47:13] [Server thread/WARN]: MasterProject moved too quickly! 0.18316091389067424,0.0,-15.869094172236657
+[00:47:52] [Server thread/INFO]: <Guitarrinha> eu vi alguem vindo de la
+[00:48:03] [Server thread/INFO]: <Guitarrinha> e foi pro reator
+[00:48:13] [Server thread/INFO]: <Guitarrinha> onde c tava marcus?
+[00:48:37] [Server thread/INFO]: <Guitarrinha> quem se encontrou cmg la no corredor das camera
+[00:48:41] [Server thread/INFO]: <Guitarrinha> ???
+[00:48:58] [Server thread/INFO]: <Guitarrinha> galeraaaaaaaaaa
+[00:49:12] [Server thread/INFO]: <Guitarrinha> onde faz uploa?
+[00:49:20] [Server thread/INFO]: <MasterProject> usa a bussola
+[00:50:34] [Server thread/INFO]: <Guitarrinha> iiiiiiiiiiiiiiiiiiiii penso
+[00:51:36] [Server thread/INFO]: <Guitarrinha> eu ouvi alguem nos fils enquanto tava na medbay
+[00:53:57] [Server thread/INFO]: <Guitarrinha> rava na frente do reator
+[00:54:07] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[00:54:07] [Server thread/INFO]: kyleflick124 left the game
+[00:54:10] [Server thread/INFO]: kyleflick124[/127.0.0.1:21704] logged in with entity id 28579 at (550.2269805348324, 56.5, 441.97737254079783)
+[00:54:10] [Server thread/INFO]: kyleflick124 joined the game
+[00:54:19] [Server thread/INFO]: <Guitarrinha> eu tbm acho q é o marcus
+[00:54:44] [Server thread/INFO]: <Guitarrinha> pq eu vi ele pelas redondesas da onde eu encontrei
+[00:55:00] [Server thread/INFO]: <Guitarrinha> blz
+[00:55:34] [Server thread/INFO]: <Guitarrinha> é o fer
+[00:56:26] [Server thread/INFO]: <Feshoter> hmmmmmmmmmmmmmmmmm
+[00:56:38] [Server thread/INFO]: <Guitarrinha> falei
+[00:56:43] [Server thread/INFO]: <Guitarrinha> aaaaaaaaaaaaaaaaaaaaa rapais
+[00:58:25] [Server thread/INFO]: <Guitarrinha> minha ultima galera
+[01:05:12] [Server thread/INFO]: <Feshoter> hmmmmmmmmmmmm
+[01:05:22] [Server thread/INFO]: <Guitarrinha> eu me confundo com a bulsula
+[01:05:29] [Server thread/INFO]: <Guitarrinha> e era uma bulsola
+[01:05:49] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[01:05:49] [Server thread/INFO]: kyleflick124 left the game
+[01:05:51] [Server thread/INFO]: kyleflick124[/127.0.0.1:21792] logged in with entity id 29188 at (585.4171760699331, 56.0, 438.7723787135151)
+[01:05:51] [Server thread/INFO]: kyleflick124 joined the game
+[01:06:27] [Server thread/INFO]: <Guitarrinha> o machado n poderia ser d dima p n confundir?
+[01:08:51] [Server thread/INFO]: SrM1CH3L[/127.0.0.1:21827] logged in with entity id 29193 at (605.9111300830817, 56.0, 410.82293522711893)
+[01:08:51] [Server thread/INFO]: SrM1CH3L joined the game
+[01:08:59] [Server thread/INFO]: <SrM1CH3L> pai ta on
+[01:09:51] [Server thread/INFO]: <Guitarrinha> tava no reator de baixo
+[01:10:07] [Server thread/INFO]: <Guitarrinha> o vermelho
+[01:10:21] [Server thread/INFO]: <Guitarrinha> o reator vermelho
+[01:10:24] [Server thread/INFO]: <Guitarrinha> aaaaaaaaaaaaaaaaaaaaaaaaa
+[01:10:30] [Server thread/INFO]: <Guitarrinha> o de baixo
+[01:10:39] [Server thread/INFO]: <Guitarrinha> aaaaaaaaaaaaaa ss
+[01:10:54] [Server thread/INFO]: <Guitarrinha> n vi, eu deci reto e fui fazer tesq e tava la
+[01:11:01] [Server thread/INFO]: <MasterProject> task
+[01:12:38] [Server thread/INFO]: SrM1CH3L fell from a high place
+[01:12:47] [Server thread/INFO]: <yR_Mew> michel was not an impostor
+[01:13:05] [Server thread/INFO]: <Guitarrinha> eu matei
+[01:13:18] [Server thread/INFO]: <Guitarrinha> eu matei na mesma hora
+[01:13:36] [Server thread/INFO]: <Guitarrinha> tem cd a reunião
+[01:15:06] [Server thread/INFO]: <Guitarrinha> galera
+[01:15:09] [Server thread/INFO]: <Guitarrinha> tenho q ir
+[01:15:21] [Server thread/INFO]: <Guitarrinha> blz
+[01:15:25] [Server thread/INFO]: <Guitarrinha> eu espero
+[01:15:28] [Server thread/INFO]: <kyleflick124> Guitarrinha left the game.
+[01:15:45] [Server thread/INFO]: <Guitarrinha> left the game
+[01:17:18] [Server thread/INFO]: <Guitarrinha> ta
+[01:17:18] [Server thread/WARN]: Feshoter moved too quickly! 6.205444585080954,0.0,7.925618578745173
+[01:17:18] [Server thread/WARN]: Bariani moved too quickly! -5.972351676578569,0.0,-8.313879068158826
+[01:17:22] [Server thread/INFO]: <Guitarrinha> é o marcus
+[01:18:12] [Server thread/INFO]: <Guitarrinha> fez msm
+[01:18:15] [Server thread/INFO]: <Guitarrinha> eu vi
+[01:18:25] [Server thread/INFO]: <Guitarrinha> marcus sujo
+[01:18:39] [Server thread/INFO]: <Guitarrinha> ainda?????
+[01:19:34] [Server thread/INFO]: <MasterProject> a
+[01:19:38] [Server thread/WARN]: yR_Mew moved too quickly! -8.327327340144052,4.306831467138082,4.0759123819198635
+[01:20:37] [Server thread/WARN]: Feshoter moved too quickly! 0.5148870236566836,-1.5417553406879563,10.000727592109854
+[01:20:37] [Server thread/INFO]: <Guitarrinha> iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+[01:21:38] [Server thread/WARN]: MasterProject moved too quickly! 9.739505022472713,-1.6409186500196853,1.6267254515327636
+[01:23:09] [Server thread/INFO]: <Guitarrinha> tchauuuuuuuuuuuu
+[01:23:15] [Server thread/INFO]: <Guitarrinha> boa noite galera
+[01:23:18] [Server thread/INFO]: Guitarrinha lost connection: Disconnected
+[01:23:18] [Server thread/INFO]: Guitarrinha left the game
+[01:24:57] [Server thread/WARN]: SrM1CH3L moved wrongly!
+[01:31:14] [Server thread/INFO]: kyleflick124 has made the advancement [Sweet Dreams]
+[01:31:38] [Server thread/WARN]: MasterProject moved wrongly!
+[01:35:33] [Server thread/WARN]: kyleflick124 moved wrongly!
+[01:36:00] [Server thread/WARN]: SrM1CH3L moved wrongly!
+[01:36:29] [Server thread/INFO]: <MasterProject> a
+[01:39:19] [Server thread/INFO]: <Feshoter> muitas risada
+[01:41:04] [Server thread/INFO]: <SrM1CH3L> ?
+[01:41:11] [Server thread/INFO]: <Feshoter> 1>2
+[01:41:57] [Server thread/INFO]: SrM1CH3L has made the advancement [Diamonds!]
+[01:42:37] [Server thread/INFO]: Bariani has made the advancement [Diamonds!]
+[01:42:45] [Server thread/INFO]: MasterProject has made the advancement [Diamonds!]
+[01:43:22] [Server thread/INFO]: Infinitemarcus has made the advancement [Diamonds!]
+[01:43:58] [Server thread/INFO]: SrM1CH3L was shot by Feshoter
+[01:44:07] [Server thread/INFO]: Bariani was shot by Feshoter
+[01:44:17] [Server thread/INFO]: yR_Mew has made the advancement [Ol' Betsy]
+[01:44:28] [Server thread/INFO]: yR_Mew was shot by Feshoter
+[01:44:36] [Server thread/WARN]: Infinitemarcus moved too quickly! 94.90974522419629,-1.0,-84.08245958012702
+[01:44:36] [Server thread/INFO]: Infinitemarcus was shot by yR_Mew
+[01:44:38] [Server thread/WARN]: Infinitemarcus moved too quickly! -5801.518997939287,46.099999999999994,-5420.447245124839
+[01:44:39] [Server thread/INFO]: kyleflick124 was shot by Feshoter
+[01:44:43] [Server thread/WARN]: Infinitemarcus moved too quickly! 5699.627228181681,-46.0,5523.108267876404
+[01:46:42] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[01:46:42] [Server thread/INFO]: kyleflick124 left the game
+[01:46:45] [Server thread/INFO]: kyleflick124[/127.0.0.1:21962] logged in with entity id 30235 at (543.0875874070124, 56.0, 407.1338347630032)
+[01:46:45] [Server thread/INFO]: kyleflick124 joined the game
+[01:46:57] [Server thread/WARN]: yR_Mew moved wrongly!
+[01:47:36] [Server thread/WARN]: Infinitemarcus moved wrongly!
+[01:47:36] [Server thread/WARN]: Feshoter moved wrongly!
+[01:51:38] [Server thread/INFO]: <Infinitemarcus> t
+[01:52:32] [Server thread/WARN]: SrM1CH3L moved wrongly!
+[01:54:59] [Server thread/WARN]: kyleflick124 moved too quickly! -1.4971073005374933,-0.08609407931551516,-10.039481398822659
+[01:56:07] [Server thread/INFO]: MasterProject was killed by magic whilst trying to escape SrM1CH3L
+[01:56:29] [Server thread/INFO]: yR_Mew was slain by kyleflick124
+[01:56:52] [Server thread/INFO]: kyleflick124 was shot by SrM1CH3L
+[01:56:58] [Server thread/INFO]: Bariani was shot by SrM1CH3L
+[01:57:16] [Server thread/INFO]: SrM1CH3L was slain by yR_Mew
+[01:57:21] [Server thread/INFO]: kyleflick124 was slain by yR_Mew
+[01:57:36] [Server thread/INFO]: Feshoter was slain by yR_Mew
+[01:57:48] [Server thread/INFO]: Bariani was slain by SrM1CH3L
+[01:57:55] [Server thread/INFO]: SrM1CH3L was slain by Feshoter
+[01:58:18] [Server thread/INFO]: kyleflick124 fell out of the world
+[01:58:53] [Server thread/INFO]: Bariani lost connection: Disconnected
+[01:58:53] [Server thread/INFO]: Bariani left the game
+[01:58:55] [Server thread/INFO]: MasterProject lost connection: Disconnected
+[01:58:55] [Server thread/INFO]: MasterProject left the game
+[01:59:11] [Server thread/INFO]: yR_Mew was shot by kyleflick124
+[01:59:13] [Server thread/INFO]: yR_Mew lost connection: Disconnected
+[01:59:13] [Server thread/INFO]: yR_Mew left the game
+[01:59:23] [Server thread/INFO]: SrM1CH3L lost connection: Disconnected
+[01:59:23] [Server thread/INFO]: SrM1CH3L left the game
+[02:00:49] [Server thread/INFO]: Feshoter lost connection: Disconnected
+[02:00:49] [Server thread/INFO]: Feshoter left the game
+[02:02:08] [Server thread/INFO]: kyleflick124 lost connection: Disconnected
+[02:02:08] [Server thread/INFO]: kyleflick124 left the game
+[02:02:11] [Server thread/INFO]: Infinitemarcus lost connection: Disconnected
+[02:02:11] [Server thread/INFO]: Infinitemarcus left the game
+[02:02:32] [Server thread/INFO]: Stopping server
+[02:02:32] [Server thread/INFO]: Saving players
+[02:02:32] [Server thread/INFO]: Saving worlds
+[02:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
+[02:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[02:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
+[02:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
+[02:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[02:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
