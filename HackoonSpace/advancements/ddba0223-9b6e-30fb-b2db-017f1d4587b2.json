@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-10-21 22:59:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2020-09-20 23:09:13 -0300"
@@ -428,6 +434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-10-21 22:59:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-09-19 23:20:04 -0300"
@@ -661,6 +673,7 @@
       "minecraft:pillager": "2020-09-29 00:37:47 -0300",
       "minecraft:skeleton": "2020-09-29 00:28:37 -0300",
       "minecraft:creeper": "2020-09-29 00:39:36 -0300",
+      "minecraft:slime": "2020-10-21 23:21:38 -0300",
       "minecraft:witch": "2020-09-29 00:40:04 -0300",
       "minecraft:wither_skeleton": "2020-09-29 00:46:15 -0300",
       "minecraft:zombie": "2020-09-21 22:42:28 -0300"
@@ -1000,6 +1013,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2020-09-21 01:53:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-10-21 22:59:36 -0300"
     },
     "done": true
   },

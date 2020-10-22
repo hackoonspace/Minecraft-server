@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-09-20 01:05:29 -0300"
@@ -404,6 +410,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-10-02 22:04:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-10-21 22:54:38 -0300"
     },
     "done": true
   },
@@ -829,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-09-22 15:16:36 -0300"
@@ -976,6 +994,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-09-25 18:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-10-21 23:22:18 -0300"
     },
     "done": true
   },
@@ -1261,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2020-09-20 00:12:35 -0300"
@@ -1445,6 +1475,7 @@
     "criteria": {
       "cooked_mutton": "2020-10-07 22:12:15 -0300",
       "cooked_beef": "2020-09-21 22:44:18 -0300",
+      "bread": "2020-10-21 22:34:19 -0300",
       "enchanted_golden_apple": "2020-10-12 22:04:51 -0300"
     },
     "done": false
@@ -1827,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-10-21 23:22:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2020-09-21 01:48:00 -0300"
@@ -1854,6 +1891,12 @@
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2020-09-20 20:15:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-10-22 00:00:30 -0300"
     },
     "done": true
   },
@@ -2079,6 +2122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-10-21 23:22:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-09-22 16:44:04 -0300"
@@ -2238,6 +2287,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-09-20 00:09:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-10-22 00:00:30 -0300"
     },
     "done": true
   },

@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-10-21 23:22:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2020-09-21 00:25:48 -0300"
@@ -362,6 +368,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2020-09-20 23:28:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
     },
     "done": true
   },
@@ -868,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-10-21 23:22:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-09-20 18:22:24 -0300"
@@ -931,6 +949,12 @@
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2020-09-25 20:41:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
     },
     "done": true
   },
@@ -1480,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2020-09-20 01:40:03 -0300"
@@ -1698,6 +1728,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2020-10-21 22:41:11 -0300",
       "cooked_chicken": "2020-09-25 16:55:07 -0300",
       "enchanted_golden_apple": "2020-10-12 22:05:03 -0300"
     },

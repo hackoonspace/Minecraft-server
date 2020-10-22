@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2020-10-07 21:52:46 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2020-10-07 21:59:03 -0300"
@@ -23,45 +17,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2020-10-07 21:59:03 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "has_compass": "2020-10-07 21:53:31 -0300"
+      "has_redstone": "2020-10-21 23:00:33 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "has_lots_of_items": "2020-10-07 21:59:03 -0300"
+      "in_water": "2020-10-22 00:21:18 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_paper": "2020-10-07 21:52:46 -0300"
+      "has_redstone": "2020-10-21 23:00:33 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_snowball": "2020-10-07 23:29:26 -0300"
+      "minecraft:skeleton": "2020-10-21 23:19:39 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_snowball": "2020-10-07 23:29:26 -0300"
+      "minecraft:skeleton": "2020-10-21 23:19:39 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-10-21 22:10:53 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_string": "2020-10-07 21:59:03 -0300"
+      "has_book": "2020-10-21 22:10:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-10-21 23:00:33 -0300"
     },
     "done": true
   },
@@ -71,9 +83,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "killed_by_something": "2020-10-07 22:11:40 -0300"
+      "bread": "2020-10-21 22:34:18 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-10-21 23:22:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-10-21 23:00:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2020-10-21 23:00:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-10-21 23:22:05 -0300"
     },
     "done": true
   },
@@ -94,6 +130,126 @@
       "minecraft:desert": "2020-09-22 18:10:08 -0300"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-10-21 23:19:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-10-07 21:52:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-10-21 23:22:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-10-07 21:53:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-10-21 22:34:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-10-21 23:00:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-10-07 21:59:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-10-22 00:21:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-10-07 21:52:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-10-21 23:00:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-10-07 23:29:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-10-07 23:29:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-10-22 00:21:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2020-10-07 21:59:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-10-21 23:00:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-10-22 00:21:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-10-07 22:11:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-10-22 00:21:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-10-21 22:56:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-10-22 00:21:18 -0300"
+    },
+    "done": true
   },
   "DataVersion": 2580
 }
