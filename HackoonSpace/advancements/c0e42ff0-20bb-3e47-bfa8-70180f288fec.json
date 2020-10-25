@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-10-24 21:51:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-09-21 00:42:12 -0300"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-10-24 21:51:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-09-21 17:23:56 -0300"
@@ -321,7 +333,9 @@
     "criteria": {
       "cooked_beef": "2020-09-29 00:56:05 -0300",
       "porkchop": "2020-10-21 23:07:14 -0300",
+      "tropical_fish": "2020-10-24 21:51:37 -0300",
       "cooked_cod": "2020-09-29 00:25:51 -0300",
+      "pufferfish": "2020-10-24 21:28:28 -0300",
       "bread": "2020-10-21 22:34:35 -0300",
       "cooked_chicken": "2020-09-29 00:26:43 -0300",
       "enchanted_golden_apple": "2020-10-12 22:03:27 -0300"
@@ -442,6 +456,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-10-24 21:51:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-10-24 21:51:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-09-20 00:20:08 -0300"
@@ -463,6 +489,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-09-29 00:39:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-10-24 21:51:56 -0300"
     },
     "done": true
   },
@@ -670,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-10-24 21:51:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-09-21 00:44:21 -0300"
@@ -749,6 +787,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-09-21 17:19:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-10-24 21:51:56 -0300"
     },
     "done": true
   },
@@ -1070,6 +1114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2020-10-24 20:44:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2020-09-21 17:19:41 -0300"
@@ -1286,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-10-24 21:51:54 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-09-20 00:18:14 -0300"
@@ -1409,6 +1465,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2020-09-21 01:41:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-10-24 21:51:54 -0300"
     },
     "done": true
   },
@@ -1556,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2020-10-24 20:44:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-10-18 01:41:57 -0300"
@@ -1571,6 +1639,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2020-09-21 00:08:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-10-24 21:51:56 -0300"
     },
     "done": true
   },
