@@ -303,6 +303,7 @@
     "criteria": {
       "cooked_beef": "2020-09-21 22:49:11 -0300",
       "cooked_cod": "2020-09-29 00:25:44 -0300",
+      "pufferfish": "2020-11-06 09:53:04 -0300",
       "cooked_chicken": "2020-09-29 00:28:14 -0300",
       "enchanted_golden_apple": "2020-10-12 22:06:43 -0300"
     },
@@ -686,6 +687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-12-06 22:21:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-09-19 23:35:51 -0300"
@@ -803,6 +810,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-10-18 00:38:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-11-06 10:19:26 -0300"
     },
     "done": true
   },
@@ -1247,6 +1260,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-09-22 16:14:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-11-06 10:19:26 -0300"
     },
     "done": true
   },
