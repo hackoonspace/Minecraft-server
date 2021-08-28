@@ -1,126 +1,41 @@
-[14:57:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:57:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:57:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:57:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:57:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:57:18] [main/INFO]: Reloading ResourceManager: Default
-[14:57:19] [Worker-Main-8/INFO]: Loaded 7 recipes
-[14:57:19] [Worker-Main-8/INFO]: Loaded 927 advancements
-[14:57:21] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[14:57:21] [Server thread/INFO]: Loading properties
-[14:57:21] [Server thread/INFO]: Default game type: CREATIVE
-[14:57:21] [Server thread/INFO]: Generating keypair
-[14:57:21] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[14:57:21] [Server thread/INFO]: Using default channel type
-[14:57:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:57:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:57:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:57:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:57:23] [Server thread/INFO]: Preparing level "HackoonSpace"
-[14:57:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:57:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:57:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:57:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:57:26] [Server thread/INFO]: Time elapsed: 2925 ms
-[14:57:26] [Server thread/INFO]: Done (3.025s)! For help, type "help"
-[15:04:44] [Server thread/INFO]: MasterProject[/127.0.0.1:1406] logged in with entity id 15 at (1975.8774783084075, 68.54072146173802, 1002.3602276706908)
-[15:04:44] [Server thread/INFO]: MasterProject joined the game
-[15:04:51] [Server thread/WARN]: MasterProject moved too quickly! -5.508458524655907,-2.747357232107234,-8.563778180620147
-[15:07:09] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:07:09] [Server thread/INFO]: MasterProject left the game
-[15:07:44] [Server thread/INFO]: MasterProject[/127.0.0.1:1453] logged in with entity id 16 at (1947.2225640069812, 64.17123001409705, 978.592122775616)
-[15:07:44] [Server thread/INFO]: MasterProject joined the game
-[15:09:12] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:09:12] [Server thread/INFO]: MasterProject left the game
-[15:10:34] [Server thread/INFO]: MasterProject[/127.0.0.1:1511] logged in with entity id 17 at (1940.7950854650383, 63.38410924169447, 977.9408456852071)
-[15:10:34] [Server thread/INFO]: MasterProject joined the game
-[15:12:52] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:12:52] [Server thread/INFO]: MasterProject left the game
-[15:13:45] [Server thread/INFO]: MasterProject[/127.0.0.1:1525] logged in with entity id 18 at (1945.5061745379608, 59.0, 984.124626859785)
-[15:13:45] [Server thread/INFO]: MasterProject joined the game
-[15:14:35] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:14:35] [Server thread/INFO]: MasterProject left the game
-[15:16:44] [Server thread/INFO]: MasterProject[/127.0.0.1:1617] logged in with entity id 19 at (1966.2403610565314, 61.12649399206809, 1005.4145816138737)
-[15:16:44] [Server thread/INFO]: MasterProject joined the game
-[15:19:34] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:19:34] [Server thread/INFO]: MasterProject left the game
-[15:20:19] [Server thread/INFO]: MasterProject[/127.0.0.1:1688] logged in with entity id 20 at (1950.0085429141081, 60.36819527715334, 997.5642569949902)
-[15:20:19] [Server thread/INFO]: MasterProject joined the game
-[15:20:32] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:20:32] [Server thread/INFO]: MasterProject left the game
-[15:20:51] [Server thread/INFO]: MasterProject[/127.0.0.1:1699] logged in with entity id 21 at (1945.203088422037, 57.37806323825938, 1012.8733215621735)
-[15:20:51] [Server thread/INFO]: MasterProject joined the game
-[15:21:24] [Server thread/WARN]: MasterProject moved too quickly! -8.612121814899865,2.3317839164601324,5.5491511595769225
-[15:22:32] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:22:32] [Server thread/INFO]: MasterProject left the game
-[15:23:38] [Server thread/INFO]: MasterProject[/127.0.0.1:1761] logged in with entity id 22 at (1945.664921719646, 58.0, 1009.2651677174806)
-[15:23:38] [Server thread/INFO]: MasterProject joined the game
-[15:24:31] [Server thread/WARN]: MasterProject moved too quickly! 6.323107213724825,2.478635733506273,-7.482330564135168
-[15:24:34] [Server thread/WARN]: MasterProject moved too quickly! -2.6739850199558077,0.0,9.751766233505577
-[15:25:11] [Server thread/WARN]: MasterProject moved too quickly! 2.7591101956120383,1.8697721687210986,9.733011383540088
-[15:25:13] [Server thread/WARN]: MasterProject moved too quickly! -1.5161001436081278,1.8346612953028796,10.380304562770789
-[15:25:17] [Server thread/WARN]: MasterProject moved too quickly! -0.9725521251477858,0.7867565811469959,-10.765265728668624
-[15:25:42] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:25:42] [Server thread/INFO]: MasterProject left the game
-[15:26:13] [Server thread/INFO]: MasterProject[/127.0.0.1:1837] logged in with entity id 23 at (1952.3379468846233, 56.0, 1000.4235182797713)
-[15:26:13] [Server thread/INFO]: MasterProject joined the game
-[15:26:17] [Server thread/WARN]: MasterProject moved too quickly! -10.702767999845719,0.0,1.3440575882010535
-[15:26:46] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:26:46] [Server thread/INFO]: MasterProject left the game
-[15:27:16] [Server thread/INFO]: MasterProject[/127.0.0.1:1852] logged in with entity id 24 at (1963.9603029980349, 56.0, 1004.2063017932132)
-[15:27:16] [Server thread/INFO]: MasterProject joined the game
-[15:27:21] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:27:21] [Server thread/INFO]: MasterProject left the game
-[15:27:48] [Server thread/INFO]: MasterProject[/127.0.0.1:1868] logged in with entity id 25 at (1955.300000011921, 58.000635549029525, 997.4025152149264)
-[15:27:48] [Server thread/INFO]: MasterProject joined the game
-[15:28:09] [Server thread/WARN]: MasterProject moved too quickly! -8.12598307455437,5.312076296213441,-2.4767588817351225
-[15:28:12] [Server thread/WARN]: MasterProject moved too quickly! -1.9111892704038382,1.7347263526417436,-10.17595079205637
-[15:28:31] [Server thread/WARN]: MasterProject moved too quickly! 10.30329726228615,2.431830787873267,-1.1375097477782674
-[15:28:46] [Server thread/WARN]: MasterProject moved too quickly! -10.114248949138073,0.0,-0.9573576872728609
-[15:29:12] [Server thread/WARN]: MasterProject moved too quickly! 9.47429764455137,-2.7162310834710652,2.7409472231488508
-[15:30:03] [Server thread/WARN]: MasterProject moved too quickly! -10.125850409691566,0.0380712975128219,-1.1958273833192834
-[15:30:17] [Server thread/WARN]: MasterProject moved too quickly! 1.2542098522158085,3.2250001279950595,-9.388645466336698
-[15:30:28] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:30:28] [Server thread/INFO]: MasterProject left the game
-[15:32:53] [Server thread/INFO]: MasterProject[/127.0.0.1:2017] logged in with entity id 26 at (1939.2388433650829, 61.12649399206809, 994.2329118094907)
-[15:32:53] [Server thread/INFO]: MasterProject joined the game
-[15:33:23] [Server thread/WARN]: MasterProject moved too quickly! -10.137186272265353,1.0,0.2761013015018534
-[15:33:39] [Server thread/WARN]: MasterProject moved too quickly! -10.121537681863856,0.0752985629920957,-0.281403986253963
-[15:33:41] [Server thread/WARN]: MasterProject moved too quickly! -10.066323325563644,0.0,-1.065559648427893
-[15:33:59] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:33:59] [Server thread/INFO]: MasterProject left the game
-[15:34:17] [Server thread/INFO]: MasterProject[/127.0.0.1:2078] logged in with entity id 27 at (1935.7461072458038, 63.43977758325093, 983.5775326265059)
-[15:34:17] [Server thread/INFO]: MasterProject joined the game
-[15:35:32] [Server thread/WARN]: MasterProject moved too quickly! 0.5520407509734468,-5.753199980521202,8.320056689024454
-[15:36:39] [Server thread/WARN]: MasterProject moved too quickly! -4.442011573230957,3.239819440162897,-8.377256784908354
-[15:36:42] [Server thread/WARN]: MasterProject moved too quickly! -3.440417132992934,0.0,-9.41402242103186
-[15:36:52] [Server thread/WARN]: MasterProject moved too quickly! -10.496538735874083,0.0,-0.03400536110120811
-[15:37:23] [Server thread/WARN]: MasterProject moved too quickly! 9.999956916582732,0.35662243637316493,0.6996233117782822
-[15:37:32] [Server thread/WARN]: MasterProject moved too quickly! -10.7623172889148,0.0,-0.7484504048592271
-[15:37:52] [Server thread/WARN]: MasterProject moved too quickly! 6.409401614688704,-1.8787031594608052,-7.8458590658879075
-[15:38:11] [Server thread/WARN]: MasterProject moved too quickly! 0.8735182156706287,-6.879735275475582,7.30867897642338
-[15:38:31] [Server thread/WARN]: MasterProject moved too quickly! 1.5805182116982905,3.5137090409879193,9.717721707378132
-[15:38:52] [Server thread/WARN]: MasterProject moved too quickly! 5.884604491472828,-4.166109260938214,-7.272232219612533
-[15:39:12] [Server thread/WARN]: MasterProject moved too quickly! -9.746802745470177,1.5846993792503383,3.719215568342179
-[15:40:52] [Server thread/WARN]: MasterProject moved too quickly! 9.768981788225346,0.0,-3.22171435081259
-[15:41:12] [Server thread/WARN]: MasterProject moved too quickly! -8.71296613396703,0.0,-5.763693863168555
-[15:44:53] [Server thread/WARN]: MasterProject moved too quickly! -10.23314789363576,0.7521489003674589,0.0800801372921569
-[15:45:42] [Server thread/WARN]: MasterProject moved too quickly! -3.5734506183025587,-4.497779277964241,-8.480202590060912
-[15:46:24] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:46:24] [Server thread/INFO]: MasterProject left the game
-[15:48:06] [Server thread/INFO]: MasterProject[/127.0.0.1:3499] logged in with entity id 28 at (1924.103538637424, 60.70746864308459, 975.9576316671412)
-[15:48:06] [Server thread/INFO]: MasterProject joined the game
-[15:48:48] [Server thread/INFO]: MasterProject lost connection: Disconnected
-[15:48:48] [Server thread/INFO]: MasterProject left the game
-[23:21:31] [Server thread/INFO]: Stopping server
-[23:21:31] [Server thread/INFO]: Saving players
-[23:21:31] [Server thread/INFO]: Saving worlds
-[23:21:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
-[23:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[23:21:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
-[23:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:21:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
-[23:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
-[23:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:21:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:24:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:24:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:24:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:24:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:24:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:24:58] [main/INFO]: Reloading ResourceManager: Default
+[09:24:59] [Worker-Main-10/INFO]: Loaded 7 recipes
+[09:24:59] [Worker-Main-10/INFO]: Loaded 927 advancements
+[09:25:01] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[09:25:01] [Server thread/INFO]: Loading properties
+[09:25:01] [Server thread/INFO]: Default game type: CREATIVE
+[09:25:01] [Server thread/INFO]: Generating keypair
+[09:25:01] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[09:25:01] [Server thread/INFO]: Using default channel type
+[09:25:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:25:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:25:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:25:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:25:02] [Server thread/INFO]: Preparing level "HackoonSpace"
+[09:25:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:25:03] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:03] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:03] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[09:25:07] [Server thread/INFO]: Time elapsed: 5339 ms
+[09:25:07] [Server thread/INFO]: Done (5.465s)! For help, type "help"
+[09:27:11] [Server thread/INFO]: Infinitemarcus[/127.0.0.1:1086] logged in with entity id 16 at (696938.3306451542, 93.55799804577046, 696997.5994814286)
+[09:27:11] [Server thread/INFO]: Infinitemarcus joined the game
+[09:28:13] [Server thread/INFO]: Infinitemarcus lost connection: Disconnected
+[09:28:13] [Server thread/INFO]: Infinitemarcus left the game
+[09:28:20] [Server thread/INFO]: Stopping server
+[09:28:20] [Server thread/INFO]: Saving players
+[09:28:20] [Server thread/INFO]: Saving worlds
+[09:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:overworld
+[09:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[09:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_nether
+[09:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[HackoonSpace]'/minecraft:the_end
+[09:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (HackoonSpace): All chunks are saved
+[09:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
